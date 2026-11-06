@@ -18,11 +18,11 @@ Forecasts annual US motor-vehicle traffic deaths for the next five years (2025�
 
 All 50 states and DC, in `data/state_forecasts.xlsx` (Excel workbook: summary, per-year detail, history, national, and a Read Me sheet) and `data/state_forecasts.csv` (one row per state and year, with 80% and 95% ranges and deaths per 100,000 people). State forecasts are scaled so they add up to the national forecast each year.
 
-- Six models per state: naive (last year), 3-year average, damped trend, ARIMA, rate per person × population, and one gradient-boosting model trained on all states together.
-- The blend of the top three (ARIMA, 3-year average, damped trend), scaled to the national total, averaged 6% error one year out and 15% five years out in backtests. That is about the same as the naive baseline overall; it beat the baseline in 29 of 51 states.
-- The pooled machine-learning model did not beat the per-state models.
+- Seven models per state: naive (last year), 3-year average, damped trend, ARIMA, rate per person × population, rate per mile × miles driven, and one gradient-boosting model trained on all states together (with miles-driven inputs).
+- The blend of the top three (ARIMA, 3-year average, rate per mile × miles driven), scaled to the national total, averaged 6% error one year out and 15% five years out in backtests. That is about the same as the naive baseline overall; it beat the baseline in 28 of 51 states.
+- The pooled machine-learning model did not beat the per-state models. Adding state miles driven barely changed accuracy (11.61% → 11.58% average error) and moved most 2029 state forecasts by less than 1%.
 - Small states (DC, RI, ND, VT, WY) swing the most year to year, so their ranges are widest.
-- State miles driven are not used: FHWA publishes them only as yearly spreadsheets whose layout changes. Population is used instead.
+- State miles driven come from FHWA Highway Statistics table VM-202 (1995–2024). After 2024 each state keeps its 2024 share of the national miles-driven projection. Indiana and Wyoming (2022) and Vermont (2001) show one-year jumps that likely reflect changes in how those states estimate travel.
 
 ## Data
 
@@ -34,6 +34,7 @@ All 50 states and DC, in `data/state_forecasts.xlsx` (Excel workbook: summary, p
 | `data/raw/UNRATE.csv` | Unemployment rate, monthly | BLS, via FRED |
 | `data/results.json` | Model scores, forecasts, backtest detail | Output of `src/model.py` |
 | `data/fars_state_annual.csv` | Fatal crashes and deaths by state and year, 1995–2024 | NHTSA FARS (same files) |
+| `data/state_vmt.csv` | Miles driven by state and year, 1995–2024 (millions) | FHWA Highway Statistics VM-202 |
 | `data/raw/states/{ST}POP.csv` | State population, annual | Census, via FRED |
 | `data/raw/states/{ST}UR.csv` | State unemployment rate, monthly | BLS, via FRED |
 | `data/state_results.json` | State model scores, forecasts, per-state backtest error | Output of `src/state_model.py` |
@@ -59,6 +60,7 @@ pip install -r requirements.txt
 python src/fetch_fars.py /tmp/fars data/fars_annual.json data/fars_state_annual.csv   # ~1 GB download, a few minutes
 python src/fetch_fred.py data/raw
 python src/fetch_fred_states.py data/raw/states
+python src/fetch_fhwa_vmt.py /tmp/fhwa data/state_vmt.csv
 python src/model.py data          # national; writes data/results.json
 python src/state_model.py data    # states (needs results.json); ~2 minutes
 python src/build_report.py data/results.json data/state_results.json report/template.html report/traffic-fatality-outlook.html

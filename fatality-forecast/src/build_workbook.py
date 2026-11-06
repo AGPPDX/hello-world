@@ -49,7 +49,8 @@ rows = [
  ("What this is", "Forecasts of annual motor-vehicle traffic deaths for the 50 states and DC, 2025-2029, from 30 years (1995-2024) of NHTSA data. State forecasts are scaled so they add up to the national forecast each year."),
  ("Fatality data", "NHTSA Fatality Analysis Reporting System (FARS), national annual files 1995-2024 (static.nhtsa.gov). Deaths = sum of FATALS across crash records. Puerto Rico and the Virgin Islands are excluded, matching NHTSA US totals. 2024 may still be revised by NHTSA; the 2025 file is not yet published."),
  ("Population", "Census state population via FRED ({ST}POP), actuals through 2025. After 2025 each state grows at its own 2020-2025 average rate."),
- ("State models", "Six models per state: naive (last year), 3-year average, damped trend, ARIMA, rate per person x population, and a gradient-boosting model trained on all states together. The three most accurate in backtests (ARIMA, 3-year average, damped trend) are blended with inverse-error weights, then scaled to the national forecast."),
+ ("Miles driven", "FHWA Highway Statistics table VM-202 (annual vehicle-miles of travel by state), 1995-2024. For 2025-2029 each state keeps its 2024 share of national miles driven, applied to the national miles-driven path. Indiana and Wyoming (2022) and Vermont (2001) show one-year jumps that likely reflect changes in how those states estimate travel."),
+ ("State models", "Seven models per state: naive (last year), 3-year average, damped trend, ARIMA, rate per person x population, rate per mile x miles driven, and a gradient-boosting model trained on all states together. The three most accurate in backtests (" + ", ".join(st["top"]) + ") are blended with inverse-error weights, then scaled to the national forecast."),
  ("National model", "Eight models including ARIMAX with miles driven and unemployment; the blend of gradient boosting, ARIMA and linear drift is used. See the National sheet."),
  ("Accuracy", f"Backtest: models trained through each year 2005-2019 and scored on the next 1-5 years. State blend error (weighted across states): {st['score']['Blend, reconciled to national']['wape_by_h'][0]:.1f}% one year ahead, {st['score']['Blend, reconciled to national']['wape_by_h'][4]:.1f}% five years ahead - about the same as assuming each state repeats its last year. Small states swing the most."),
  ("Ranges", "80% range: in backtests, actual deaths fell inside a band this wide about 80% of the time. 95% range likewise. Built from each state's own backtest errors, partly pooled with the all-state average."),
@@ -73,8 +74,8 @@ for r, (a, b) in enumerate(rows, 1):
 ws = wb.create_sheet("Summary")
 cols = ["State", "Abbr.", "2024 recorded"] + [f"{y} forecast" for y in YRS] + \
        ["2029 low (80%)", "2029 high (80%)", "Change 2024 to 2029", "2029 population", "2029 deaths per 100k",
-        "Backtest error (blend)", "Backtest error (last-year baseline)"]
-header(ws, 1, cols, [22, 7, 11, 11, 11, 11, 11, 11, 12, 12, 12, 14, 12, 12, 14])
+        "Backtest error (blend)", "Backtest error (last-year baseline)", "2029 miles driven (millions)", "2029 deaths per 100M miles"]
+header(ws, 1, cols, [22, 7, 11, 11, 11, 11, 11, 11, 12, 12, 12, 14, 12, 12, 14, 14, 13])
 n = len(S); first, last = 2, 1 + n
 for i, s in enumerate(S):
     r = first + i; e5 = s["ens"][-1]
@@ -86,14 +87,17 @@ for i, s in enumerate(S):
     fmt(ws.cell(r, 12, round(e5["pred"] / e5["rate"] * 1e5)), INT)
     fmt(ws.cell(r, 13, f"=IF(L{r}>0,H{r}/L{r}*100000,0)"), RATE, fill=CALC_FILL)
     fmt(ws.cell(r, 14, s["wape_blend"] / 100), PCT); fmt(ws.cell(r, 15, s["wape_naive"] / 100), PCT)
+    fmt(ws.cell(r, 16, round(s["vmt_fc"][-1])), INT)
+    fmt(ws.cell(r, 17, f"=IF(P{r}>0,H{r}/P{r}*100,0)"), RATE, fill=CALC_FILL)
 t = last + 1
 fmt(ws.cell(t, 1, "Total, 50 states + DC"), font=BOLD, fill=TOT_FILL); ws.cell(t, 2).fill = TOT_FILL
-for c in range(3, 16): ws.cell(t, c).fill = TOT_FILL
-for c in [3, 4, 5, 6, 7, 8, 12]:
+for c in range(3, 18): ws.cell(t, c).fill = TOT_FILL
+for c in [3, 4, 5, 6, 7, 8, 12, 16]:
     fmt(ws.cell(t, c, f"=SUM({L(c)}{first}:{L(c)}{last})"), INT, BOLD, TOT_FILL)
 fmt(ws.cell(t, 11, f"=H{t}/C{t}-1"), PCT, BOLD, TOT_FILL)
 fmt(ws.cell(t, 13, f"=IF(L{t}>0,H{t}/L{t}*100000,0)"), RATE, BOLD, TOT_FILL)
-for c in range(1, 16): ws.cell(t, c).border = Border(top=THIN)
+fmt(ws.cell(t, 17, f"=IF(P{t}>0,H{t}/P{t}*100,0)"), RATE, BOLD, TOT_FILL)
+for c in range(1, 18): ws.cell(t, c).border = Border(top=THIN)
 ws.cell(t, 9, "Ranges don't add").font = NOTE
 nr = t + 1
 fmt(ws.cell(nr, 1, "National forecast (National sheet)"))
@@ -105,25 +109,28 @@ fmt(ws.cell(cr, 1, "Check: states minus national"))
 for c in range(3, 9): fmt(ws.cell(cr, c, f"={L(c)}{t}-{L(c)}{nr}"), INT, fill=CALC_FILL)
 ws.cell(cr, 9, "Small differences come from rounding each state to whole deaths.").font = NOTE
 ws.cell(cr + 2, 1, SRC).font = NOTE
-ws.freeze_panes = "C2"; ws.auto_filter.ref = f"A1:O{last}"
+ws.freeze_panes = "C2"; ws.auto_filter.ref = f"A1:Q{last}"
 ws["N1"].comment = Comment("Weighted average absolute error of this state's blended forecasts in the 2005-2019 backtest, all horizons 1-5 years.", "Forecast")
 ws["O1"].comment = Comment("Same measure for simply repeating the last recorded year. Lower is better.", "Forecast")
+ws["P1"].comment = Comment("FHWA VM-202 state miles driven; after 2024, the state's 2024 share of the projected national total.", "Forecast")
 ws["L1"].comment = Comment("Census state population via FRED, projected past 2025 at each state's 2020-2025 growth rate.", "Forecast")
 
 # ---------------- Forecast Detail (long format)
 ws = wb.create_sheet("Forecast Detail")
 header(ws, 1, ["State", "Abbr.", "FIPS", "Year", "Forecast", "Low (80%)", "High (80%)", "Low (95%)", "High (95%)",
-               "Population", "Deaths per 100k"], [22, 7, 7, 7, 11, 11, 11, 11, 11, 13, 12])
+               "Population", "Deaths per 100k", "Miles driven (millions)", "Deaths per 100M miles"], [22, 7, 7, 7, 11, 11, 11, 11, 11, 13, 12, 14, 13])
 r = 2
 for s in S:
-    for e in s["ens"]:
+    for e, vf in zip(s["ens"], s["vmt_fc"]):
         vals = [s["name"], s["st"], s["fips"], str(e["year"]), round(e["pred"]), round(e["lo80"]), round(e["hi80"]),
                 round(e["lo95"]), round(e["hi95"]), round(e["pred"] / e["rate"] * 1e5)]
         for c, v in enumerate(vals, 1): fmt(ws.cell(r, c, v), INT if c >= 5 else None)
         fmt(ws.cell(r, 11, f"=IF(J{r}>0,E{r}/J{r}*100000,0)"), RATE, fill=CALC_FILL)
+        fmt(ws.cell(r, 12, round(vf)), INT)
+        fmt(ws.cell(r, 13, f"=IF(L{r}>0,E{r}/L{r}*100,0)"), RATE, fill=CALC_FILL)
         r += 1
 ws.cell(r + 1, 1, SRC).font = NOTE
-ws.freeze_panes = "E2"; ws.auto_filter.ref = f"A1:K{r - 1}"
+ws.freeze_panes = "E2"; ws.auto_filter.ref = f"A1:M{r - 1}"
 
 # ---------------- History (wide)
 ws = wb.create_sheet("History")
