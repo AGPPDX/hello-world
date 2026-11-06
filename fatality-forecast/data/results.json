@@ -1,0 +1,5371 @@
+{
+ "history": [
+  {
+   "year": 1995,
+   "crashes": 37241.0,
+   "fatalities": 41817.0,
+   "vmt": 2422.774,
+   "pop": 266.58775,
+   "unemp": 5.5916666667,
+   "rate_vmt": 1.7259967294,
+   "rate_pop": 15.6860170807
+  },
+  {
+   "year": 1996,
+   "crashes": 37494.0,
+   "fatalities": 42065.0,
+   "vmt": 2482.201,
+   "pop": 269.7146666667,
+   "unemp": 5.4083333333,
+   "rate_vmt": 1.6946653394,
+   "rate_pop": 15.5961114462
+  },
+  {
+   "year": 1997,
+   "crashes": 37324.0,
+   "fatalities": 42013.0,
+   "vmt": 2560.373,
+   "pop": 272.9581666667,
+   "unemp": 4.9416666667,
+   "rate_vmt": 1.6408937292,
+   "rate_pop": 15.3917358521
+  },
+  {
+   "year": 1998,
+   "crashes": 37107.0,
+   "fatalities": 41501.0,
+   "vmt": 2625.364,
+   "pop": 276.15425,
+   "unemp": 4.5,
+   "rate_vmt": 1.5807712759,
+   "rate_pop": 15.028195293
+  },
+  {
+   "year": 1999,
+   "crashes": 37140.0,
+   "fatalities": 41717.0,
+   "vmt": 2679.458,
+   "pop": 279.3275833333,
+   "unemp": 4.2166666667,
+   "rate_vmt": 1.5569193471,
+   "rate_pop": 14.9347943022
+  },
+  {
+   "year": 2000,
+   "crashes": 37526.0,
+   "fatalities": 41945.0,
+   "vmt": 2746.926,
+   "pop": 282.3984166667,
+   "unemp": 3.9666666667,
+   "rate_vmt": 1.5269796128,
+   "rate_pop": 14.8531286029
+  },
+  {
+   "year": 2001,
+   "crashes": 37862.0,
+   "fatalities": 42196.0,
+   "vmt": 2795.61,
+   "pop": 285.2251666667,
+   "unemp": 4.7416666667,
+   "rate_vmt": 1.509366471,
+   "rate_pop": 14.7939259684
+  },
+  {
+   "year": 2002,
+   "crashes": 38491.0,
+   "fatalities": 43005.0,
+   "vmt": 2855.509,
+   "pop": 287.9545833333,
+   "unemp": 5.7833333333,
+   "rate_vmt": 1.5060362268,
+   "rate_pop": 14.9346468121
+  },
+  {
+   "year": 2003,
+   "crashes": 38477.0,
+   "fatalities": 42884.0,
+   "vmt": 2890.221,
+   "pop": 290.62625,
+   "unemp": 5.9916666667,
+   "rate_vmt": 1.4837619684,
+   "rate_pop": 14.7557214808
+  },
+  {
+   "year": 2004,
+   "crashes": 38444.0,
+   "fatalities": 42836.0,
+   "vmt": 2964.789,
+   "pop": 293.2623333333,
+   "unemp": 5.5416666667,
+   "rate_vmt": 1.4448245727,
+   "rate_pop": 14.6067173077
+  },
+  {
+   "year": 2005,
+   "crashes": 39252.0,
+   "fatalities": 43510.0,
+   "vmt": 2989.428,
+   "pop": 295.9929166667,
+   "unemp": 5.0833333333,
+   "rate_vmt": 1.4554623828,
+   "rate_pop": 14.6996760902
+  },
+  {
+   "year": 2006,
+   "crashes": 38648.0,
+   "fatalities": 42708.0,
+   "vmt": 3014.116,
+   "pop": 298.8176666667,
+   "unemp": 4.6083333333,
+   "rate_vmt": 1.4169328586,
+   "rate_pop": 14.2923276513
+  },
+  {
+   "year": 2007,
+   "crashes": 37435.0,
+   "fatalities": 41259.0,
+   "vmt": 3029.821,
+   "pop": 301.6961666667,
+   "unemp": 4.6166666667,
+   "rate_vmt": 1.3617636157,
+   "rate_pop": 13.6756792292
+  },
+  {
+   "year": 2008,
+   "crashes": 34172.0,
+   "fatalities": 37423.0,
+   "vmt": 2973.508,
+   "pop": 304.5430833333,
+   "unemp": 5.8,
+   "rate_vmt": 1.2585471436,
+   "rate_pop": 12.2882449309
+  },
+  {
+   "year": 2009,
+   "crashes": 30862.0,
+   "fatalities": 33883.0,
+   "vmt": 2956.763,
+   "pop": 307.2400833333,
+   "unemp": 9.2833333333,
+   "rate_vmt": 1.1459491342,
+   "rate_pop": 11.0281834429
+  },
+  {
+   "year": 2010,
+   "crashes": 30296.0,
+   "fatalities": 32999.0,
+   "vmt": 2967.266,
+   "pop": 309.8388333333,
+   "unemp": 9.6083333333,
+   "rate_vmt": 1.1121011733,
+   "rate_pop": 10.6503757599
+  },
+  {
+   "year": 2011,
+   "crashes": 29867.0,
+   "fatalities": 32479.0,
+   "vmt": 2950.402,
+   "pop": 312.29525,
+   "unemp": 8.9333333333,
+   "rate_vmt": 1.100833039,
+   "rate_pop": 10.4000941417
+  },
+  {
+   "year": 2012,
+   "crashes": 31006.0,
+   "fatalities": 33782.0,
+   "vmt": 2968.567,
+   "pop": 314.7254166667,
+   "unemp": 8.075,
+   "rate_vmt": 1.1379901481,
+   "rate_pop": 10.733801025
+  },
+  {
+   "year": 2013,
+   "crashes": 30202.0,
+   "fatalities": 32893.0,
+   "vmt": 2988.281,
+   "pop": 317.099,
+   "unemp": 7.3583333333,
+   "rate_vmt": 1.100733164,
+   "rate_pop": 10.3731011451
+  },
+  {
+   "year": 2014,
+   "crashes": 30056.0,
+   "fatalities": 32744.0,
+   "vmt": 3025.656,
+   "pop": 319.6004166667,
+   "unemp": 6.1583333333,
+   "rate_vmt": 1.0822115931,
+   "rate_pop": 10.2452932764
+  },
+  {
+   "year": 2015,
+   "crashes": 32538.0,
+   "fatalities": 35484.0,
+   "vmt": 3095.372,
+   "pop": 322.1126666667,
+   "unemp": 5.275,
+   "rate_vmt": 1.1463565607,
+   "rate_pop": 11.0160213093
+  },
+  {
+   "year": 2016,
+   "crashes": 34748.0,
+   "fatalities": 37806.0,
+   "vmt": 3174.407,
+   "pop": 324.6093333333,
+   "unemp": 4.875,
+   "rate_vmt": 1.1909625955,
+   "rate_pop": 11.6466152134
+  },
+  {
+   "year": 2017,
+   "crashes": 34560.0,
+   "fatalities": 37473.0,
+   "vmt": 3212.346,
+   "pop": 326.8596666667,
+   "unemp": 4.3583333333,
+   "rate_vmt": 1.166530629,
+   "rate_pop": 11.4645530855
+  },
+  {
+   "year": 2018,
+   "crashes": 33919.0,
+   "fatalities": 36835.0,
+   "vmt": 3240.325,
+   "pop": 328.7945,
+   "unemp": 3.8916666667,
+   "rate_vmt": 1.1367686883,
+   "rate_pop": 11.2030462797
+  },
+  {
+   "year": 2019,
+   "crashes": 33487.0,
+   "fatalities": 36355.0,
+   "vmt": 3261.771,
+   "pop": 330.5125833333,
+   "unemp": 3.675,
+   "rate_vmt": 1.1145785526,
+   "rate_pop": 10.9995812061
+  },
+  {
+   "year": 2020,
+   "crashes": 35935.0,
+   "fatalities": 39007.0,
+   "vmt": 2903.621,
+   "pop": 331.84025,
+   "unemp": 8.1,
+   "rate_vmt": 1.343391579,
+   "rate_pop": 11.754752475
+  },
+  {
+   "year": 2021,
+   "crashes": 39785.0,
+   "fatalities": 43230.0,
+   "vmt": 3140.088,
+   "pop": 332.5026666667,
+   "unemp": 5.35,
+   "rate_vmt": 1.3767130093,
+   "rate_pop": 13.0013994875
+  },
+  {
+   "year": 2022,
+   "crashes": 39422.0,
+   "fatalities": 42721.0,
+   "vmt": 3196.191,
+   "pop": 334.35,
+   "unemp": 3.65,
+   "rate_vmt": 1.3366222482,
+   "rate_pop": 12.7773291461
+  },
+  {
+   "year": 2023,
+   "crashes": 37769.0,
+   "fatalities": 41025.0,
+   "vmt": 3246.816,
+   "pop": 337.08675,
+   "unemp": 3.625,
+   "rate_vmt": 1.2635455782,
+   "rate_pop": 12.1704576048
+  },
+  {
+   "year": 2024,
+   "crashes": 36297.0,
+   "fatalities": 39254.0,
+   "vmt": 3294.031,
+   "pop": 340.0953333333,
+   "unemp": 4.025,
+   "rate_vmt": 1.1916706309,
+   "rate_pop": 11.5420578152
+  },
+  {
+   "year": 2025,
+   "crashes": null,
+   "fatalities": null,
+   "vmt": 3323.931,
+   "pop": 341.9445,
+   "unemp": 4.2636363636,
+   "rate_vmt": null,
+   "rate_pop": null
+  },
+  {
+   "year": 2026,
+   "crashes": null,
+   "fatalities": null,
+   "vmt": 3341.5148442639,
+   "pop": 342.9646709011,
+   "unemp": 4.2444444444,
+   "rate_vmt": null,
+   "rate_pop": null
+  },
+  {
+   "year": 2027,
+   "crashes": null,
+   "fatalities": null,
+   "vmt": 3389.6797957586,
+   "pop": 345.0962466301,
+   "unemp": 4.2444444444,
+   "rate_vmt": null,
+   "rate_pop": null
+  },
+  {
+   "year": 2028,
+   "crashes": null,
+   "fatalities": null,
+   "vmt": 3438.5390020033,
+   "pop": 347.241070415,
+   "unemp": 4.2444444444,
+   "rate_vmt": null,
+   "rate_pop": null
+  },
+  {
+   "year": 2029,
+   "crashes": null,
+   "fatalities": null,
+   "vmt": 3488.1024700599,
+   "pop": 349.3992245942,
+   "unemp": 4.2444444444,
+   "rate_vmt": null,
+   "rate_pop": null
+  }
+ ],
+ "score": {
+  "Naive (last year)": {
+   "mape_by_h": [
+    4.132407744230499,
+    7.933655815263084,
+    10.379470940317168,
+    12.38851279952832,
+    13.717952062251202
+   ],
+   "mape_all": 9.710399872318057
+  },
+  "Linear drift": {
+   "mape_by_h": [
+    4.024499964886271,
+    8.375898958175496,
+    12.406435013262556,
+    14.95356444777622,
+    17.011723622943848
+   ],
+   "mape_all": 11.354424401408876
+  },
+  "Damped trend (Holt)": {
+   "mape_by_h": [
+    4.083838345496931,
+    10.229864991946602,
+    14.645774680608024,
+    17.77193986756708,
+    17.875482776529076
+   ],
+   "mape_all": 12.921380132429544
+  },
+  "ARIMA (auto)": {
+   "mape_by_h": [
+    3.6743615261351383,
+    7.9855364811757505,
+    11.475733808073029,
+    14.181410318156917,
+    15.619195189297994
+   ],
+   "mape_all": 10.587247464567767
+  },
+  "ARIMAX: miles + unemployment": {
+   "mape_by_h": [
+    5.2573097155430295,
+    10.26488586216781,
+    14.691377401498729,
+    17.812418915974618,
+    19.475954454127496
+   ],
+   "mape_all": 13.500389269862337
+  },
+  "Rate-per-mile x miles driven": {
+   "mape_by_h": [
+    4.977396816737967,
+    9.853896232684695,
+    13.380042454311162,
+    14.395087148409335,
+    16.375308985906678
+   ],
+   "mape_all": 11.79634632760997
+  },
+  "Ridge regression": {
+   "mape_by_h": [
+    6.522231408140629,
+    11.08482589937072,
+    14.944063686654058,
+    17.528814757058775,
+    19.066350744319735
+   ],
+   "mape_all": 13.829257299108786
+  },
+  "Gradient boosting": {
+   "mape_by_h": [
+    5.495174350265407,
+    8.742464755038343,
+    11.327670469670858,
+    12.179109626220958,
+    12.510902500218785
+   ],
+   "mape_all": 10.051064340282869
+  }
+ },
+ "rank": [
+  "Naive (last year)",
+  "Gradient boosting",
+  "ARIMA (auto)",
+  "Linear drift",
+  "Rate-per-mile x miles driven",
+  "Damped trend (Holt)",
+  "ARIMAX: miles + unemployment",
+  "Ridge regression"
+ ],
+ "top": [
+  "Gradient boosting",
+  "ARIMA (auto)",
+  "Linear drift"
+ ],
+ "weights": [
+  0.35278756628868396,
+  0.3349209073544721,
+  0.3122915263568438
+ ],
+ "forecasts": {
+  "Naive (last year)": [
+   39254.0,
+   39254.0,
+   39254.0,
+   39254.0,
+   39254.0
+  ],
+  "Linear drift": [
+   39165.620689655174,
+   39077.24137931035,
+   38988.862068965514,
+   38900.48275862069,
+   38812.10344827586
+  ],
+  "Damped trend (Holt)": [
+   37892.40591055971,
+   36837.21518718735,
+   36014.25864005345,
+   35369.15055401179,
+   34861.39406802053
+  ],
+  "ARIMA (auto)": [
+   39860.47923353935,
+   40810.14792599187,
+   40712.218981856975,
+   39972.825091769875,
+   39766.268855747774
+  ],
+  "ARIMAX: miles + unemployment": [
+   38822.861188410905,
+   38663.40469512015,
+   38354.05438930471,
+   38061.197520057685,
+   37782.17504990564
+  ],
+  "Rate-per-mile x miles driven": [
+   39457.9989897955,
+   39524.820212256,
+   39961.07236886408,
+   40411.53082986998,
+   40875.90410322862
+  ],
+  "Ridge regression": [
+   39725.16825428448,
+   40221.527347170886,
+   40387.04397735896,
+   40553.241729241985,
+   40720.12340572075
+  ],
+  "Gradient boosting": [
+   39818.724126325425,
+   40029.36816310687,
+   40606.35574682254,
+   41191.66009113271,
+   41785.40107471198
+  ]
+ },
+ "ensemble": [
+  {
+   "year": 2025,
+   "pred": 39628.75011561354,
+   "lo80": 37068.76518119384,
+   "hi80": 42365.52871533128,
+   "lo95": 35781.29987454821,
+   "hi95": 43889.90453761622
+  },
+  {
+   "year": 2026,
+   "pred": 39993.52650313927,
+   "lo80": 35406.50164794846,
+   "hi80": 45174.81501169379,
+   "lo95": 33195.367695485635,
+   "hi95": 48183.89652526195
+  },
+  {
+   "year": 2027,
+   "pred": 40136.68198802523,
+   "lo80": 34201.75171591403,
+   "hi80": 47101.48340905868,
+   "lo95": 31424.109495227072,
+   "hi95": 51264.88122925337
+  },
+  {
+   "year": 2028,
+   "pred": 40067.931500906336,
+   "lo80": 33489.848952035514,
+   "hi80": 47938.08228459459,
+   "lo95": 30456.94530266596,
+   "hi95": 52711.758149324145
+  },
+  {
+   "year": 2029,
+   "pred": 40180.61582579492,
+   "lo80": 33386.74391464178,
+   "hi80": 48356.973422379444,
+   "lo95": 30268.62937150104,
+   "hi95": 53338.453760982375
+  }
+ ],
+ "ens_mape": [
+  4.0953409288813,
+  7.654232577963316,
+  10.336444453184876,
+  11.710848440232253,
+  12.83207966056513
+ ],
+ "assump": {
+  "g_vmt": 0.014414106696978846,
+  "g_pop": 0.006215146660615067,
+  "unemp": 4.2444444444444445,
+  "vmt_months_2026": 8
+ },
+ "backtest": [
+  {
+   "model": "Naive (last year)",
+   "origin": 2005,
+   "h": 1,
+   "year": 2006,
+   "pred": 43510.0,
+   "actual": 42708.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2005,
+   "h": 2,
+   "year": 2007,
+   "pred": 43510.0,
+   "actual": 41259.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2005,
+   "h": 3,
+   "year": 2008,
+   "pred": 43510.0,
+   "actual": 37423.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2005,
+   "h": 4,
+   "year": 2009,
+   "pred": 43510.0,
+   "actual": 33883.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2005,
+   "h": 5,
+   "year": 2010,
+   "pred": 43510.0,
+   "actual": 32999.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2005,
+   "h": 1,
+   "year": 2006,
+   "pred": 43679.3,
+   "actual": 42708.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2005,
+   "h": 2,
+   "year": 2007,
+   "pred": 43848.6,
+   "actual": 41259.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2005,
+   "h": 3,
+   "year": 2008,
+   "pred": 44017.9,
+   "actual": 37423.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2005,
+   "h": 4,
+   "year": 2009,
+   "pred": 44187.2,
+   "actual": 33883.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2005,
+   "h": 5,
+   "year": 2010,
+   "pred": 44356.5,
+   "actual": 32999.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2005,
+   "h": 1,
+   "year": 2006,
+   "pred": 43609.6219055995,
+   "actual": 42708.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2005,
+   "h": 2,
+   "year": 2007,
+   "pred": 43769.2038207678,
+   "actual": 41259.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2005,
+   "h": 3,
+   "year": 2008,
+   "pred": 43928.5674129963,
+   "actual": 37423.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2005,
+   "h": 4,
+   "year": 2009,
+   "pred": 44087.7100817581,
+   "actual": 33883.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2005,
+   "h": 5,
+   "year": 2010,
+   "pred": 44246.6292526506,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2005,
+   "h": 1,
+   "year": 2006,
+   "pred": 43510.0,
+   "actual": 42708.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2005,
+   "h": 2,
+   "year": 2007,
+   "pred": 43510.0,
+   "actual": 41259.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2005,
+   "h": 3,
+   "year": 2008,
+   "pred": 43510.0,
+   "actual": 37423.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2005,
+   "h": 4,
+   "year": 2009,
+   "pred": 43510.0,
+   "actual": 33883.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2005,
+   "h": 5,
+   "year": 2010,
+   "pred": 43510.0,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2005,
+   "h": 1,
+   "year": 2006,
+   "pred": 43552.1979966597,
+   "actual": 42708.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2005,
+   "h": 2,
+   "year": 2007,
+   "pred": 44145.2880563086,
+   "actual": 41259.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2005,
+   "h": 3,
+   "year": 2008,
+   "pred": 45518.808937154,
+   "actual": 37423.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2005,
+   "h": 4,
+   "year": 2009,
+   "pred": 47371.6540584677,
+   "actual": 33883.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2005,
+   "h": 5,
+   "year": 2010,
+   "pred": 48057.7960858844,
+   "actual": 32999.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2005,
+   "h": 1,
+   "year": 2006,
+   "pred": 43418.7702948056,
+   "actual": 42708.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2005,
+   "h": 2,
+   "year": 2007,
+   "pred": 43394.0248615302,
+   "actual": 41259.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2005,
+   "h": 3,
+   "year": 2008,
+   "pred": 42378.5404332143,
+   "actual": 37423.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2005,
+   "h": 4,
+   "year": 2009,
+   "pred": 41963.4914023855,
+   "actual": 33883.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2005,
+   "h": 5,
+   "year": 2010,
+   "pred": 41962.1610680371,
+   "actual": 32999.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2005,
+   "h": 1,
+   "year": 2006,
+   "pred": 43022.9825450786,
+   "actual": 42708.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2005,
+   "h": 2,
+   "year": 2007,
+   "pred": 43174.0495802277,
+   "actual": 41259.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2005,
+   "h": 3,
+   "year": 2008,
+   "pred": 43762.7091650224,
+   "actual": 37423.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2005,
+   "h": 4,
+   "year": 2009,
+   "pred": 45238.7285924416,
+   "actual": 33883.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2005,
+   "h": 5,
+   "year": 2010,
+   "pred": 45520.4816421624,
+   "actual": 32999.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2005,
+   "h": 1,
+   "year": 2006,
+   "pred": 44038.7442185725,
+   "actual": 42708.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2005,
+   "h": 2,
+   "year": 2007,
+   "pred": 44268.2073440636,
+   "actual": 41259.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2005,
+   "h": 3,
+   "year": 2008,
+   "pred": 43219.8271974812,
+   "actual": 37423.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2005,
+   "h": 4,
+   "year": 2009,
+   "pred": 42921.5219586045,
+   "actual": 33883.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2005,
+   "h": 5,
+   "year": 2010,
+   "pred": 43073.9875925194,
+   "actual": 32999.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2006,
+   "h": 1,
+   "year": 2007,
+   "pred": 42708.0,
+   "actual": 41259.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2006,
+   "h": 2,
+   "year": 2008,
+   "pred": 42708.0,
+   "actual": 37423.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2006,
+   "h": 3,
+   "year": 2009,
+   "pred": 42708.0,
+   "actual": 33883.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2006,
+   "h": 4,
+   "year": 2010,
+   "pred": 42708.0,
+   "actual": 32999.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2006,
+   "h": 5,
+   "year": 2011,
+   "pred": 42708.0,
+   "actual": 32479.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2006,
+   "h": 1,
+   "year": 2007,
+   "pred": 42789.0,
+   "actual": 41259.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2006,
+   "h": 2,
+   "year": 2008,
+   "pred": 42870.0,
+   "actual": 37423.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2006,
+   "h": 3,
+   "year": 2009,
+   "pred": 42951.0,
+   "actual": 33883.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2006,
+   "h": 4,
+   "year": 2010,
+   "pred": 43032.0,
+   "actual": 32999.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2006,
+   "h": 5,
+   "year": 2011,
+   "pred": 43113.0,
+   "actual": 32479.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2006,
+   "h": 1,
+   "year": 2007,
+   "pred": 43240.79672715,
+   "actual": 41259.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2006,
+   "h": 2,
+   "year": 2008,
+   "pred": 43376.9433770074,
+   "actual": 37423.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2006,
+   "h": 3,
+   "year": 2009,
+   "pred": 43512.8347489161,
+   "actual": 33883.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2006,
+   "h": 4,
+   "year": 2010,
+   "pred": 43648.4691949289,
+   "actual": 32999.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2006,
+   "h": 5,
+   "year": 2011,
+   "pred": 43783.8450888755,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2006,
+   "h": 1,
+   "year": 2007,
+   "pred": 42708.0,
+   "actual": 41259.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2006,
+   "h": 2,
+   "year": 2008,
+   "pred": 42708.0,
+   "actual": 37423.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2006,
+   "h": 3,
+   "year": 2009,
+   "pred": 42708.0,
+   "actual": 33883.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2006,
+   "h": 4,
+   "year": 2010,
+   "pred": 42708.0,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2006,
+   "h": 5,
+   "year": 2011,
+   "pred": 42708.0,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2006,
+   "h": 1,
+   "year": 2007,
+   "pred": 43262.2848948635,
+   "actual": 41259.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2006,
+   "h": 2,
+   "year": 2008,
+   "pred": 43834.8721237902,
+   "actual": 37423.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2006,
+   "h": 3,
+   "year": 2009,
+   "pred": 45721.2006223308,
+   "actual": 33883.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2006,
+   "h": 4,
+   "year": 2010,
+   "pred": 46016.7154075737,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2006,
+   "h": 5,
+   "year": 2011,
+   "pred": 45934.2057598522,
+   "actual": 32479.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2006,
+   "h": 1,
+   "year": 2007,
+   "pred": 43031.7299559057,
+   "actual": 41259.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2006,
+   "h": 2,
+   "year": 2008,
+   "pred": 41966.5490033487,
+   "actual": 37423.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2006,
+   "h": 3,
+   "year": 2009,
+   "pred": 41500.4977552013,
+   "actual": 33883.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2006,
+   "h": 4,
+   "year": 2010,
+   "pred": 41447.0800151646,
+   "actual": 32999.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2006,
+   "h": 5,
+   "year": 2011,
+   "pred": 41037.4434472313,
+   "actual": 32479.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2006,
+   "h": 1,
+   "year": 2007,
+   "pred": 43045.2417126323,
+   "actual": 41259.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2006,
+   "h": 2,
+   "year": 2008,
+   "pred": 43679.6393588927,
+   "actual": 37423.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2006,
+   "h": 3,
+   "year": 2009,
+   "pred": 45323.9311756034,
+   "actual": 33883.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2006,
+   "h": 4,
+   "year": 2010,
+   "pred": 45610.2018091364,
+   "actual": 32999.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2006,
+   "h": 5,
+   "year": 2011,
+   "pred": 45454.9907080716,
+   "actual": 32479.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2006,
+   "h": 1,
+   "year": 2007,
+   "pred": 42943.008039848,
+   "actual": 41259.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2006,
+   "h": 2,
+   "year": 2008,
+   "pred": 42396.6033325585,
+   "actual": 37423.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2006,
+   "h": 3,
+   "year": 2009,
+   "pred": 42157.8512852112,
+   "actual": 33883.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2006,
+   "h": 4,
+   "year": 2010,
+   "pred": 42307.6042116542,
+   "actual": 32999.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2006,
+   "h": 5,
+   "year": 2011,
+   "pred": 42186.0519505158,
+   "actual": 32479.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2007,
+   "h": 1,
+   "year": 2008,
+   "pred": 41259.0,
+   "actual": 37423.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2007,
+   "h": 2,
+   "year": 2009,
+   "pred": 41259.0,
+   "actual": 33883.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2007,
+   "h": 3,
+   "year": 2010,
+   "pred": 41259.0,
+   "actual": 32999.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2007,
+   "h": 4,
+   "year": 2011,
+   "pred": 41259.0,
+   "actual": 32479.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2007,
+   "h": 5,
+   "year": 2012,
+   "pred": 41259.0,
+   "actual": 33782.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2007,
+   "h": 1,
+   "year": 2008,
+   "pred": 41212.5,
+   "actual": 37423.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2007,
+   "h": 2,
+   "year": 2009,
+   "pred": 41166.0,
+   "actual": 33883.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2007,
+   "h": 3,
+   "year": 2010,
+   "pred": 41119.5,
+   "actual": 32999.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2007,
+   "h": 4,
+   "year": 2011,
+   "pred": 41073.0,
+   "actual": 32479.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2007,
+   "h": 5,
+   "year": 2012,
+   "pred": 41026.5,
+   "actual": 33782.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2007,
+   "h": 1,
+   "year": 2008,
+   "pred": 41218.0314229816,
+   "actual": 37423.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2007,
+   "h": 2,
+   "year": 2009,
+   "pred": 41177.3080440567,
+   "actual": 33883.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2007,
+   "h": 3,
+   "year": 2010,
+   "pred": 41136.8282154978,
+   "actual": 32999.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2007,
+   "h": 4,
+   "year": 2011,
+   "pred": 41096.590282351,
+   "actual": 32479.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2007,
+   "h": 5,
+   "year": 2012,
+   "pred": 41056.5926029156,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2007,
+   "h": 1,
+   "year": 2008,
+   "pred": 40813.5220938862,
+   "actual": 37423.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2007,
+   "h": 2,
+   "year": 2009,
+   "pred": 40813.5220938862,
+   "actual": 33883.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2007,
+   "h": 3,
+   "year": 2010,
+   "pred": 40813.5220938862,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2007,
+   "h": 4,
+   "year": 2011,
+   "pred": 40813.5220938862,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2007,
+   "h": 5,
+   "year": 2012,
+   "pred": 40813.5220938862,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2007,
+   "h": 1,
+   "year": 2008,
+   "pred": 41859.744808574,
+   "actual": 37423.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2007,
+   "h": 2,
+   "year": 2009,
+   "pred": 43437.3386162333,
+   "actual": 33883.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2007,
+   "h": 3,
+   "year": 2010,
+   "pred": 43346.7686506985,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2007,
+   "h": 4,
+   "year": 2011,
+   "pred": 42442.2013360776,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2007,
+   "h": 5,
+   "year": 2012,
+   "pred": 41715.2640606939,
+   "actual": 33782.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2007,
+   "h": 1,
+   "year": 2008,
+   "pred": 41023.5655933725,
+   "actual": 37423.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2007,
+   "h": 2,
+   "year": 2009,
+   "pred": 40396.6682860881,
+   "actual": 33883.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2007,
+   "h": 3,
+   "year": 2010,
+   "pred": 40174.8252573687,
+   "actual": 32999.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2007,
+   "h": 4,
+   "year": 2011,
+   "pred": 39612.2172482917,
+   "actual": 32479.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2007,
+   "h": 5,
+   "year": 2012,
+   "pred": 39546.4035662839,
+   "actual": 33782.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2007,
+   "h": 1,
+   "year": 2008,
+   "pred": 42739.1936294964,
+   "actual": 37423.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2007,
+   "h": 2,
+   "year": 2009,
+   "pred": 44692.9820383163,
+   "actual": 33883.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2007,
+   "h": 3,
+   "year": 2010,
+   "pred": 44834.438958676,
+   "actual": 32999.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2007,
+   "h": 4,
+   "year": 2011,
+   "pred": 44283.5685884548,
+   "actual": 32479.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2007,
+   "h": 5,
+   "year": 2012,
+   "pred": 43730.0935362378,
+   "actual": 33782.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2007,
+   "h": 1,
+   "year": 2008,
+   "pred": 41334.2534782685,
+   "actual": 37423.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2007,
+   "h": 2,
+   "year": 2009,
+   "pred": 41097.0554700499,
+   "actual": 33883.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2007,
+   "h": 3,
+   "year": 2010,
+   "pred": 41239.0060120923,
+   "actual": 32999.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2007,
+   "h": 4,
+   "year": 2011,
+   "pred": 41163.4423256759,
+   "actual": 32479.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2007,
+   "h": 5,
+   "year": 2012,
+   "pred": 41257.0872851638,
+   "actual": 33782.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2008,
+   "h": 1,
+   "year": 2009,
+   "pred": 37423.0,
+   "actual": 33883.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2008,
+   "h": 2,
+   "year": 2010,
+   "pred": 37423.0,
+   "actual": 32999.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2008,
+   "h": 3,
+   "year": 2011,
+   "pred": 37423.0,
+   "actual": 32479.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2008,
+   "h": 4,
+   "year": 2012,
+   "pred": 37423.0,
+   "actual": 33782.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2008,
+   "h": 5,
+   "year": 2013,
+   "pred": 37423.0,
+   "actual": 32893.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2008,
+   "h": 1,
+   "year": 2009,
+   "pred": 37085.0,
+   "actual": 33883.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2008,
+   "h": 2,
+   "year": 2010,
+   "pred": 36747.0,
+   "actual": 32999.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2008,
+   "h": 3,
+   "year": 2011,
+   "pred": 36409.0,
+   "actual": 32479.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2008,
+   "h": 4,
+   "year": 2012,
+   "pred": 36071.0,
+   "actual": 33782.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2008,
+   "h": 5,
+   "year": 2013,
+   "pred": 35733.0,
+   "actual": 32893.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2008,
+   "h": 1,
+   "year": 2009,
+   "pred": 33960.2128135556,
+   "actual": 33883.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2008,
+   "h": 2,
+   "year": 2010,
+   "pred": 30832.8057760529,
+   "actual": 32999.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2008,
+   "h": 3,
+   "year": 2011,
+   "pred": 28006.9282024357,
+   "actual": 32479.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2008,
+   "h": 4,
+   "year": 2012,
+   "pred": 25452.2773336762,
+   "actual": 33782.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2008,
+   "h": 5,
+   "year": 2013,
+   "pred": 23141.7133406622,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2008,
+   "h": 1,
+   "year": 2009,
+   "pred": 34441.1214611985,
+   "actual": 33883.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2008,
+   "h": 2,
+   "year": 2010,
+   "pred": 32091.69343845,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2008,
+   "h": 3,
+   "year": 2011,
+   "pred": 30219.2026899209,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2008,
+   "h": 4,
+   "year": 2012,
+   "pred": 28712.1860450375,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2008,
+   "h": 5,
+   "year": 2013,
+   "pred": 27489.1927439683,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2008,
+   "h": 1,
+   "year": 2009,
+   "pred": 36191.709372571,
+   "actual": 33883.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2008,
+   "h": 2,
+   "year": 2010,
+   "pred": 35388.6780200124,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2008,
+   "h": 3,
+   "year": 2011,
+   "pred": 34034.0964988174,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2008,
+   "h": 4,
+   "year": 2012,
+   "pred": 33327.0848660371,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2008,
+   "h": 5,
+   "year": 2013,
+   "pred": 32645.9615076385,
+   "actual": 32893.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2008,
+   "h": 1,
+   "year": 2009,
+   "pred": 34606.944234705,
+   "actual": 33883.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2008,
+   "h": 2,
+   "year": 2010,
+   "pred": 32233.6984727741,
+   "actual": 32999.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2008,
+   "h": 3,
+   "year": 2011,
+   "pred": 29757.9999303219,
+   "actual": 32479.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2008,
+   "h": 4,
+   "year": 2012,
+   "pred": 27809.9009127893,
+   "actual": 33782.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2008,
+   "h": 5,
+   "year": 2013,
+   "pred": 26011.4409245447,
+   "actual": 32893.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2008,
+   "h": 1,
+   "year": 2009,
+   "pred": 41768.3971017865,
+   "actual": 33883.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2008,
+   "h": 2,
+   "year": 2010,
+   "pred": 41751.7230992205,
+   "actual": 32999.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2008,
+   "h": 3,
+   "year": 2011,
+   "pred": 41736.1386557211,
+   "actual": 32479.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2008,
+   "h": 4,
+   "year": 2012,
+   "pred": 41720.7586463314,
+   "actual": 33782.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2008,
+   "h": 5,
+   "year": 2013,
+   "pred": 41705.2310424796,
+   "actual": 32893.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2008,
+   "h": 1,
+   "year": 2009,
+   "pred": 37265.4503059603,
+   "actual": 33883.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2008,
+   "h": 2,
+   "year": 2010,
+   "pred": 37397.8244680299,
+   "actual": 32999.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2008,
+   "h": 3,
+   "year": 2011,
+   "pred": 37185.2796837643,
+   "actual": 32479.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2008,
+   "h": 4,
+   "year": 2012,
+   "pred": 37414.2215721766,
+   "actual": 33782.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2008,
+   "h": 5,
+   "year": 2013,
+   "pred": 37749.6500444217,
+   "actual": 32893.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2009,
+   "h": 1,
+   "year": 2010,
+   "pred": 33883.0,
+   "actual": 32999.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2009,
+   "h": 2,
+   "year": 2011,
+   "pred": 33883.0,
+   "actual": 32479.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2009,
+   "h": 3,
+   "year": 2012,
+   "pred": 33883.0,
+   "actual": 33782.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2009,
+   "h": 4,
+   "year": 2013,
+   "pred": 33883.0,
+   "actual": 32893.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2009,
+   "h": 5,
+   "year": 2014,
+   "pred": 33883.0,
+   "actual": 32744.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2009,
+   "h": 1,
+   "year": 2010,
+   "pred": 33316.2857142857,
+   "actual": 32999.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2009,
+   "h": 2,
+   "year": 2011,
+   "pred": 32749.5714285714,
+   "actual": 32479.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2009,
+   "h": 3,
+   "year": 2012,
+   "pred": 32182.8571428571,
+   "actual": 33782.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2009,
+   "h": 4,
+   "year": 2013,
+   "pred": 31616.1428571429,
+   "actual": 32893.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2009,
+   "h": 5,
+   "year": 2014,
+   "pred": 31049.4285714286,
+   "actual": 32744.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2009,
+   "h": 1,
+   "year": 2010,
+   "pred": 30693.1099630547,
+   "actual": 32999.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2009,
+   "h": 2,
+   "year": 2011,
+   "pred": 27817.2785675148,
+   "actual": 32479.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2009,
+   "h": 3,
+   "year": 2012,
+   "pred": 25223.3063844385,
+   "actual": 33782.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2009,
+   "h": 4,
+   "year": 2013,
+   "pred": 22882.4200674587,
+   "actual": 32893.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2009,
+   "h": 5,
+   "year": 2014,
+   "pred": 20768.8951096853,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2009,
+   "h": 1,
+   "year": 2010,
+   "pred": 30971.5998329147,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2009,
+   "h": 2,
+   "year": 2011,
+   "pred": 28555.3235336199,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2009,
+   "h": 3,
+   "year": 2012,
+   "pred": 26533.4293982123,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2009,
+   "h": 4,
+   "year": 2013,
+   "pred": 24828.9377966641,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2009,
+   "h": 5,
+   "year": 2014,
+   "pred": 23382.3447233494,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2009,
+   "h": 1,
+   "year": 2010,
+   "pred": 32828.5558977087,
+   "actual": 32999.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2009,
+   "h": 2,
+   "year": 2011,
+   "pred": 31599.6683276823,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2009,
+   "h": 3,
+   "year": 2012,
+   "pred": 31126.71374649,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2009,
+   "h": 4,
+   "year": 2013,
+   "pred": 30632.8687961958,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2009,
+   "h": 5,
+   "year": 2014,
+   "pred": 30618.8709581278,
+   "actual": 32744.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2009,
+   "h": 1,
+   "year": 2010,
+   "pred": 30980.8316177769,
+   "actual": 32999.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2009,
+   "h": 2,
+   "year": 2011,
+   "pred": 28072.4372616988,
+   "actual": 32479.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2009,
+   "h": 3,
+   "year": 2012,
+   "pred": 25751.9312891641,
+   "actual": 33782.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2009,
+   "h": 4,
+   "year": 2013,
+   "pred": 23645.5318246333,
+   "actual": 32893.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2009,
+   "h": 5,
+   "year": 2014,
+   "pred": 21847.9947302163,
+   "actual": 32744.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2009,
+   "h": 1,
+   "year": 2010,
+   "pred": 33894.7214366843,
+   "actual": 32999.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2009,
+   "h": 2,
+   "year": 2011,
+   "pred": 32964.4959159478,
+   "actual": 32479.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2009,
+   "h": 3,
+   "year": 2012,
+   "pred": 32722.4638768611,
+   "actual": 33782.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2009,
+   "h": 4,
+   "year": 2013,
+   "pred": 32444.7358392859,
+   "actual": 32893.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2009,
+   "h": 5,
+   "year": 2014,
+   "pred": 32666.4240459125,
+   "actual": 32744.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2009,
+   "h": 1,
+   "year": 2010,
+   "pred": 34903.6396746015,
+   "actual": 32999.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2009,
+   "h": 2,
+   "year": 2011,
+   "pred": 33822.3370322076,
+   "actual": 32479.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2009,
+   "h": 3,
+   "year": 2012,
+   "pred": 34918.9432015575,
+   "actual": 33782.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2009,
+   "h": 4,
+   "year": 2013,
+   "pred": 36350.5976316717,
+   "actual": 32893.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2009,
+   "h": 5,
+   "year": 2014,
+   "pred": 37299.3971295503,
+   "actual": 32744.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2010,
+   "h": 1,
+   "year": 2011,
+   "pred": 32999.0,
+   "actual": 32479.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2010,
+   "h": 2,
+   "year": 2012,
+   "pred": 32999.0,
+   "actual": 33782.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2010,
+   "h": 3,
+   "year": 2013,
+   "pred": 32999.0,
+   "actual": 32893.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2010,
+   "h": 4,
+   "year": 2014,
+   "pred": 32999.0,
+   "actual": 32744.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2010,
+   "h": 5,
+   "year": 2015,
+   "pred": 32999.0,
+   "actual": 35484.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2010,
+   "h": 1,
+   "year": 2011,
+   "pred": 32411.1333333333,
+   "actual": 32479.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2010,
+   "h": 2,
+   "year": 2012,
+   "pred": 31823.2666666667,
+   "actual": 33782.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2010,
+   "h": 3,
+   "year": 2013,
+   "pred": 31235.4,
+   "actual": 32893.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2010,
+   "h": 4,
+   "year": 2014,
+   "pred": 30647.5333333333,
+   "actual": 32744.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2010,
+   "h": 5,
+   "year": 2015,
+   "pred": 30059.6666666667,
+   "actual": 35484.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2010,
+   "h": 1,
+   "year": 2011,
+   "pred": 32308.4346594169,
+   "actual": 32479.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2010,
+   "h": 2,
+   "year": 2012,
+   "pred": 31766.4019957925,
+   "actual": 33782.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2010,
+   "h": 3,
+   "year": 2013,
+   "pred": 31339.3306042003,
+   "actual": 32893.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2010,
+   "h": 4,
+   "year": 2014,
+   "pred": 31001.8111631122,
+   "actual": 32744.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2010,
+   "h": 5,
+   "year": 2015,
+   "pred": 30734.4147163011,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2010,
+   "h": 1,
+   "year": 2011,
+   "pred": 32790.6130721983,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2010,
+   "h": 2,
+   "year": 2012,
+   "pred": 32790.6130721983,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2010,
+   "h": 3,
+   "year": 2013,
+   "pred": 32790.6130721983,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2010,
+   "h": 4,
+   "year": 2014,
+   "pred": 32790.6130721983,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2010,
+   "h": 5,
+   "year": 2015,
+   "pred": 32790.6130721983,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2010,
+   "h": 1,
+   "year": 2011,
+   "pred": 31709.2036253374,
+   "actual": 32479.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2010,
+   "h": 2,
+   "year": 2012,
+   "pred": 31197.6953611642,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2010,
+   "h": 3,
+   "year": 2013,
+   "pred": 30673.9848451501,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2010,
+   "h": 4,
+   "year": 2014,
+   "pred": 30632.8096350955,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2010,
+   "h": 5,
+   "year": 2015,
+   "pred": 31081.0195483352,
+   "actual": 35484.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2010,
+   "h": 1,
+   "year": 2011,
+   "pred": 32033.8146406816,
+   "actual": 32479.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2010,
+   "h": 2,
+   "year": 2012,
+   "pred": 31618.4701203776,
+   "actual": 33782.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2010,
+   "h": 3,
+   "year": 2013,
+   "pred": 31343.584159241,
+   "actual": 32893.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2010,
+   "h": 4,
+   "year": 2014,
+   "pred": 31348.2537768695,
+   "actual": 32744.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2010,
+   "h": 5,
+   "year": 2015,
+   "pred": 31757.0328821274,
+   "actual": 35484.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2010,
+   "h": 1,
+   "year": 2011,
+   "pred": 32543.2202306276,
+   "actual": 32479.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2010,
+   "h": 2,
+   "year": 2012,
+   "pred": 32339.6402543449,
+   "actual": 33782.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2010,
+   "h": 3,
+   "year": 2013,
+   "pred": 32092.1748155069,
+   "actual": 32893.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2010,
+   "h": 4,
+   "year": 2014,
+   "pred": 32376.6919102881,
+   "actual": 32744.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2010,
+   "h": 5,
+   "year": 2015,
+   "pred": 33029.6795719956,
+   "actual": 35484.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2010,
+   "h": 1,
+   "year": 2011,
+   "pred": 33000.5407139299,
+   "actual": 32479.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2010,
+   "h": 2,
+   "year": 2012,
+   "pred": 33390.6114295858,
+   "actual": 33782.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2010,
+   "h": 3,
+   "year": 2013,
+   "pred": 35718.470894597,
+   "actual": 32893.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2010,
+   "h": 4,
+   "year": 2014,
+   "pred": 36456.3337032661,
+   "actual": 32744.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2010,
+   "h": 5,
+   "year": 2015,
+   "pred": 37522.0361675806,
+   "actual": 35484.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2011,
+   "h": 1,
+   "year": 2012,
+   "pred": 32479.0,
+   "actual": 33782.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2011,
+   "h": 2,
+   "year": 2013,
+   "pred": 32479.0,
+   "actual": 32893.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2011,
+   "h": 3,
+   "year": 2014,
+   "pred": 32479.0,
+   "actual": 32744.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2011,
+   "h": 4,
+   "year": 2015,
+   "pred": 32479.0,
+   "actual": 35484.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2011,
+   "h": 5,
+   "year": 2016,
+   "pred": 32479.0,
+   "actual": 37806.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2011,
+   "h": 1,
+   "year": 2012,
+   "pred": 31895.375,
+   "actual": 33782.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2011,
+   "h": 2,
+   "year": 2013,
+   "pred": 31311.75,
+   "actual": 32893.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2011,
+   "h": 3,
+   "year": 2014,
+   "pred": 30728.125,
+   "actual": 32744.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2011,
+   "h": 4,
+   "year": 2015,
+   "pred": 30144.5,
+   "actual": 35484.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2011,
+   "h": 5,
+   "year": 2016,
+   "pred": 29560.875,
+   "actual": 37806.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2011,
+   "h": 1,
+   "year": 2012,
+   "pred": 32068.9060563675,
+   "actual": 33782.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2011,
+   "h": 2,
+   "year": 2013,
+   "pred": 31744.5622309515,
+   "actual": 32893.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2011,
+   "h": 3,
+   "year": 2014,
+   "pred": 31487.4506577541,
+   "actual": 32744.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2011,
+   "h": 4,
+   "year": 2015,
+   "pred": 31283.2615724389,
+   "actual": 35484.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2011,
+   "h": 5,
+   "year": 2016,
+   "pred": 31120.8640839924,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2011,
+   "h": 1,
+   "year": 2012,
+   "pred": 32242.9413829714,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2011,
+   "h": 2,
+   "year": 2013,
+   "pred": 32242.9413829714,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2011,
+   "h": 3,
+   "year": 2014,
+   "pred": 32242.9413829714,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2011,
+   "h": 4,
+   "year": 2015,
+   "pred": 32242.9413829714,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2011,
+   "h": 5,
+   "year": 2016,
+   "pred": 32242.9413829714,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2011,
+   "h": 1,
+   "year": 2012,
+   "pred": 31958.6576908736,
+   "actual": 33782.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2011,
+   "h": 2,
+   "year": 2013,
+   "pred": 31444.0823349873,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2011,
+   "h": 3,
+   "year": 2014,
+   "pred": 31448.5278880396,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2011,
+   "h": 4,
+   "year": 2015,
+   "pred": 31930.4167880935,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2011,
+   "h": 5,
+   "year": 2016,
+   "pred": 32387.332027452,
+   "actual": 37806.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2011,
+   "h": 1,
+   "year": 2012,
+   "pred": 32413.8065599438,
+   "actual": 33782.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2011,
+   "h": 2,
+   "year": 2013,
+   "pred": 32417.0875882377,
+   "actual": 32893.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2011,
+   "h": 3,
+   "year": 2014,
+   "pred": 32651.8366228456,
+   "actual": 32744.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2011,
+   "h": 4,
+   "year": 2015,
+   "pred": 33265.1371410359,
+   "actual": 35484.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2011,
+   "h": 5,
+   "year": 2016,
+   "pred": 34000.8519618835,
+   "actual": 37806.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2011,
+   "h": 1,
+   "year": 2012,
+   "pred": 32307.8757434944,
+   "actual": 33782.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2011,
+   "h": 2,
+   "year": 2013,
+   "pred": 32055.6889497143,
+   "actual": 32893.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2011,
+   "h": 3,
+   "year": 2014,
+   "pred": 32335.4974264495,
+   "actual": 32744.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2011,
+   "h": 4,
+   "year": 2015,
+   "pred": 32986.778223059,
+   "actual": 35484.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2011,
+   "h": 5,
+   "year": 2016,
+   "pred": 33526.7583884877,
+   "actual": 37806.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2011,
+   "h": 1,
+   "year": 2012,
+   "pred": 33086.7216733747,
+   "actual": 33782.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2011,
+   "h": 2,
+   "year": 2013,
+   "pred": 34889.8399278545,
+   "actual": 32893.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2011,
+   "h": 3,
+   "year": 2014,
+   "pred": 36202.7450945177,
+   "actual": 32744.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2011,
+   "h": 4,
+   "year": 2015,
+   "pred": 37421.649339286,
+   "actual": 35484.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2011,
+   "h": 5,
+   "year": 2016,
+   "pred": 38363.1283154479,
+   "actual": 37806.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2012,
+   "h": 1,
+   "year": 2013,
+   "pred": 33782.0,
+   "actual": 32893.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2012,
+   "h": 2,
+   "year": 2014,
+   "pred": 33782.0,
+   "actual": 32744.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2012,
+   "h": 3,
+   "year": 2015,
+   "pred": 33782.0,
+   "actual": 35484.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2012,
+   "h": 4,
+   "year": 2016,
+   "pred": 33782.0,
+   "actual": 37806.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2012,
+   "h": 5,
+   "year": 2017,
+   "pred": 33782.0,
+   "actual": 37473.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2012,
+   "h": 1,
+   "year": 2013,
+   "pred": 33309.3529411765,
+   "actual": 32893.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2012,
+   "h": 2,
+   "year": 2014,
+   "pred": 32836.7058823529,
+   "actual": 32744.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2012,
+   "h": 3,
+   "year": 2015,
+   "pred": 32364.0588235294,
+   "actual": 35484.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2012,
+   "h": 4,
+   "year": 2016,
+   "pred": 31891.4117647059,
+   "actual": 37806.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2012,
+   "h": 5,
+   "year": 2017,
+   "pred": 31418.7647058824,
+   "actual": 37473.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2012,
+   "h": 1,
+   "year": 2013,
+   "pred": 34861.9377785253,
+   "actual": 32893.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2012,
+   "h": 2,
+   "year": 2014,
+   "pred": 35750.6923150808,
+   "actual": 32744.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2012,
+   "h": 3,
+   "year": 2015,
+   "pred": 36477.9818338502,
+   "actual": 35484.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2012,
+   "h": 4,
+   "year": 2016,
+   "pred": 37070.4518623187,
+   "actual": 37806.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2012,
+   "h": 5,
+   "year": 2017,
+   "pred": 37551.3488434718,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2012,
+   "h": 1,
+   "year": 2013,
+   "pred": 33815.0840647959,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2012,
+   "h": 2,
+   "year": 2014,
+   "pred": 34250.0824317616,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2012,
+   "h": 3,
+   "year": 2015,
+   "pred": 34250.0824317616,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2012,
+   "h": 4,
+   "year": 2016,
+   "pred": 34250.0824317616,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2012,
+   "h": 5,
+   "year": 2017,
+   "pred": 34250.0824317616,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2012,
+   "h": 1,
+   "year": 2013,
+   "pred": 33191.9741982843,
+   "actual": 32893.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2012,
+   "h": 2,
+   "year": 2014,
+   "pred": 33286.9501943823,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2012,
+   "h": 3,
+   "year": 2015,
+   "pred": 33815.5976673469,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2012,
+   "h": 4,
+   "year": 2016,
+   "pred": 34266.6015779446,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2012,
+   "h": 5,
+   "year": 2017,
+   "pred": 34138.1202445747,
+   "actual": 37473.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2012,
+   "h": 1,
+   "year": 2013,
+   "pred": 34921.5548965161,
+   "actual": 32893.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2012,
+   "h": 2,
+   "year": 2014,
+   "pred": 36117.5762589501,
+   "actual": 32744.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2012,
+   "h": 3,
+   "year": 2015,
+   "pred": 37583.1715431604,
+   "actual": 35484.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2012,
+   "h": 4,
+   "year": 2016,
+   "pred": 39070.4494193868,
+   "actual": 37806.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2012,
+   "h": 5,
+   "year": 2017,
+   "pred": 39969.8292708567,
+   "actual": 37473.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2012,
+   "h": 1,
+   "year": 2013,
+   "pred": 32837.241648744,
+   "actual": 32893.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2012,
+   "h": 2,
+   "year": 2014,
+   "pred": 33317.3196094718,
+   "actual": 32744.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2012,
+   "h": 3,
+   "year": 2015,
+   "pred": 34076.2292904411,
+   "actual": 35484.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2012,
+   "h": 4,
+   "year": 2016,
+   "pred": 34647.0950997725,
+   "actual": 37806.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2012,
+   "h": 5,
+   "year": 2017,
+   "pred": 34681.7224877203,
+   "actual": 37473.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2012,
+   "h": 1,
+   "year": 2013,
+   "pred": 35863.4298892194,
+   "actual": 32893.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2012,
+   "h": 2,
+   "year": 2014,
+   "pred": 36884.0025953163,
+   "actual": 32744.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2012,
+   "h": 3,
+   "year": 2015,
+   "pred": 38009.0767721821,
+   "actual": 35484.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2012,
+   "h": 4,
+   "year": 2016,
+   "pred": 39003.7592865253,
+   "actual": 37806.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2012,
+   "h": 5,
+   "year": 2017,
+   "pred": 39386.6253602231,
+   "actual": 37473.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2013,
+   "h": 1,
+   "year": 2014,
+   "pred": 32893.0,
+   "actual": 32744.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2013,
+   "h": 2,
+   "year": 2015,
+   "pred": 32893.0,
+   "actual": 35484.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2013,
+   "h": 3,
+   "year": 2016,
+   "pred": 32893.0,
+   "actual": 37806.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2013,
+   "h": 4,
+   "year": 2017,
+   "pred": 32893.0,
+   "actual": 37473.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2013,
+   "h": 5,
+   "year": 2018,
+   "pred": 32893.0,
+   "actual": 36835.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2013,
+   "h": 1,
+   "year": 2014,
+   "pred": 32397.2222222222,
+   "actual": 32744.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2013,
+   "h": 2,
+   "year": 2015,
+   "pred": 31901.4444444444,
+   "actual": 35484.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2013,
+   "h": 3,
+   "year": 2016,
+   "pred": 31405.6666666667,
+   "actual": 37806.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2013,
+   "h": 4,
+   "year": 2017,
+   "pred": 30909.8888888889,
+   "actual": 37473.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2013,
+   "h": 5,
+   "year": 2018,
+   "pred": 30414.1111111111,
+   "actual": 36835.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2013,
+   "h": 1,
+   "year": 2014,
+   "pred": 32320.659323077,
+   "actual": 32744.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2013,
+   "h": 2,
+   "year": 2015,
+   "pred": 31869.9654372268,
+   "actual": 35484.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2013,
+   "h": 3,
+   "year": 2016,
+   "pred": 31513.9395218994,
+   "actual": 37806.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2013,
+   "h": 4,
+   "year": 2017,
+   "pred": 31231.9845411804,
+   "actual": 37473.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2013,
+   "h": 5,
+   "year": 2018,
+   "pred": 31008.237950242,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2013,
+   "h": 1,
+   "year": 2014,
+   "pred": 32728.0132005271,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2013,
+   "h": 2,
+   "year": 2015,
+   "pred": 31933.8229611362,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2013,
+   "h": 3,
+   "year": 2016,
+   "pred": 31933.8229611362,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2013,
+   "h": 4,
+   "year": 2017,
+   "pred": 31933.8229611362,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2013,
+   "h": 5,
+   "year": 2018,
+   "pred": 31933.8229611362,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2013,
+   "h": 1,
+   "year": 2014,
+   "pred": 33099.6681689271,
+   "actual": 32744.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2013,
+   "h": 2,
+   "year": 2015,
+   "pred": 33663.372467438,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2013,
+   "h": 3,
+   "year": 2016,
+   "pred": 34111.8070346363,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2013,
+   "h": 4,
+   "year": 2017,
+   "pred": 34000.1332464431,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2013,
+   "h": 5,
+   "year": 2018,
+   "pred": 33718.195602549,
+   "actual": 36835.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2013,
+   "h": 1,
+   "year": 2014,
+   "pred": 32522.779313499,
+   "actual": 32744.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2013,
+   "h": 2,
+   "year": 2015,
+   "pred": 32495.1520158012,
+   "actual": 35484.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2013,
+   "h": 3,
+   "year": 2016,
+   "pred": 32550.4700150846,
+   "actual": 37806.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2013,
+   "h": 4,
+   "year": 2017,
+   "pred": 32177.8453802654,
+   "actual": 37473.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2013,
+   "h": 5,
+   "year": 2018,
+   "pred": 31711.2968620323,
+   "actual": 36835.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2013,
+   "h": 1,
+   "year": 2014,
+   "pred": 33349.3665680137,
+   "actual": 32744.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2013,
+   "h": 2,
+   "year": 2015,
+   "pred": 34113.0870362709,
+   "actual": 35484.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2013,
+   "h": 3,
+   "year": 2016,
+   "pred": 34685.6507380892,
+   "actual": 37806.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2013,
+   "h": 4,
+   "year": 2017,
+   "pred": 34725.1374673232,
+   "actual": 37473.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2013,
+   "h": 5,
+   "year": 2018,
+   "pred": 34592.1554104627,
+   "actual": 36835.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2013,
+   "h": 1,
+   "year": 2014,
+   "pred": 34773.9062026673,
+   "actual": 32744.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2013,
+   "h": 2,
+   "year": 2015,
+   "pred": 36107.6183906555,
+   "actual": 35484.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2013,
+   "h": 3,
+   "year": 2016,
+   "pred": 37029.257232763,
+   "actual": 37806.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2013,
+   "h": 4,
+   "year": 2017,
+   "pred": 37459.6775856753,
+   "actual": 37473.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2013,
+   "h": 5,
+   "year": 2018,
+   "pred": 37785.9451543523,
+   "actual": 36835.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2014,
+   "h": 1,
+   "year": 2015,
+   "pred": 32744.0,
+   "actual": 35484.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2014,
+   "h": 2,
+   "year": 2016,
+   "pred": 32744.0,
+   "actual": 37806.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2014,
+   "h": 3,
+   "year": 2017,
+   "pred": 32744.0,
+   "actual": 37473.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2014,
+   "h": 4,
+   "year": 2018,
+   "pred": 32744.0,
+   "actual": 36835.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2014,
+   "h": 5,
+   "year": 2019,
+   "pred": 32744.0,
+   "actual": 36355.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2014,
+   "h": 1,
+   "year": 2015,
+   "pred": 32266.4736842105,
+   "actual": 35484.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2014,
+   "h": 2,
+   "year": 2016,
+   "pred": 31788.9473684211,
+   "actual": 37806.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2014,
+   "h": 3,
+   "year": 2017,
+   "pred": 31311.4210526316,
+   "actual": 37473.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2014,
+   "h": 4,
+   "year": 2018,
+   "pred": 30833.8947368421,
+   "actual": 36835.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2014,
+   "h": 5,
+   "year": 2019,
+   "pred": 30356.3684210526,
+   "actual": 36355.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2014,
+   "h": 1,
+   "year": 2015,
+   "pred": 32543.6385772555,
+   "actual": 35484.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2014,
+   "h": 2,
+   "year": 2016,
+   "pred": 32393.8846505962,
+   "actual": 37806.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2014,
+   "h": 3,
+   "year": 2017,
+   "pred": 32274.5778229198,
+   "actual": 37473.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2014,
+   "h": 4,
+   "year": 2018,
+   "pred": 32179.4488120175,
+   "actual": 36835.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2014,
+   "h": 5,
+   "year": 2019,
+   "pred": 32103.5475251354,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2014,
+   "h": 1,
+   "year": 2015,
+   "pred": 31959.7208355384,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2014,
+   "h": 2,
+   "year": 2016,
+   "pred": 31972.9675537164,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2014,
+   "h": 3,
+   "year": 2017,
+   "pred": 31972.9675537164,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2014,
+   "h": 4,
+   "year": 2018,
+   "pred": 31972.9675537164,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2014,
+   "h": 5,
+   "year": 2019,
+   "pred": 31972.9675537164,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2014,
+   "h": 1,
+   "year": 2015,
+   "pred": 33334.0563860122,
+   "actual": 35484.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2014,
+   "h": 2,
+   "year": 2016,
+   "pred": 33812.5059554122,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2014,
+   "h": 3,
+   "year": 2017,
+   "pred": 33699.5348370434,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2014,
+   "h": 4,
+   "year": 2018,
+   "pred": 33406.5183835326,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2014,
+   "h": 5,
+   "year": 2019,
+   "pred": 32891.9012532478,
+   "actual": 36355.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2014,
+   "h": 1,
+   "year": 2015,
+   "pred": 32726.7806706522,
+   "actual": 35484.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2014,
+   "h": 2,
+   "year": 2016,
+   "pred": 32793.0572551566,
+   "actual": 37806.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2014,
+   "h": 3,
+   "year": 2017,
+   "pred": 32428.0500406232,
+   "actual": 37473.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2014,
+   "h": 4,
+   "year": 2018,
+   "pred": 31968.0695822974,
+   "actual": 36835.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2014,
+   "h": 5,
+   "year": 2019,
+   "pred": 31452.884737058,
+   "actual": 36355.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2014,
+   "h": 1,
+   "year": 2015,
+   "pred": 33785.3686473219,
+   "actual": 35484.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2014,
+   "h": 2,
+   "year": 2016,
+   "pred": 34335.8548172765,
+   "actual": 37806.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2014,
+   "h": 3,
+   "year": 2017,
+   "pred": 34325.6738611362,
+   "actual": 37473.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2014,
+   "h": 4,
+   "year": 2018,
+   "pred": 34141.0202240183,
+   "actual": 36835.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2014,
+   "h": 5,
+   "year": 2019,
+   "pred": 33716.4577005675,
+   "actual": 36355.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2014,
+   "h": 1,
+   "year": 2015,
+   "pred": 34720.7754225528,
+   "actual": 35484.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2014,
+   "h": 2,
+   "year": 2016,
+   "pred": 35632.002474499,
+   "actual": 37806.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2014,
+   "h": 3,
+   "year": 2017,
+   "pred": 36031.208845722,
+   "actual": 37473.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2014,
+   "h": 4,
+   "year": 2018,
+   "pred": 36394.3563688717,
+   "actual": 36835.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2014,
+   "h": 5,
+   "year": 2019,
+   "pred": 36635.231394274,
+   "actual": 36355.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2015,
+   "h": 1,
+   "year": 2016,
+   "pred": 35484.0,
+   "actual": 37806.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2015,
+   "h": 2,
+   "year": 2017,
+   "pred": 35484.0,
+   "actual": 37473.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2015,
+   "h": 3,
+   "year": 2018,
+   "pred": 35484.0,
+   "actual": 36835.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2015,
+   "h": 4,
+   "year": 2019,
+   "pred": 35484.0,
+   "actual": 36355.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2015,
+   "h": 5,
+   "year": 2020,
+   "pred": 35484.0,
+   "actual": 39007.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2015,
+   "h": 1,
+   "year": 2016,
+   "pred": 35167.35,
+   "actual": 37806.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2015,
+   "h": 2,
+   "year": 2017,
+   "pred": 34850.7,
+   "actual": 37473.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2015,
+   "h": 3,
+   "year": 2018,
+   "pred": 34534.05,
+   "actual": 36835.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2015,
+   "h": 4,
+   "year": 2019,
+   "pred": 34217.4,
+   "actual": 36355.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2015,
+   "h": 5,
+   "year": 2020,
+   "pred": 33900.75,
+   "actual": 39007.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2015,
+   "h": 1,
+   "year": 2016,
+   "pred": 37667.7658693058,
+   "actual": 37806.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2015,
+   "h": 2,
+   "year": 2017,
+   "pred": 39511.1523512838,
+   "actual": 37473.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2015,
+   "h": 3,
+   "year": 2018,
+   "pred": 41050.6051071551,
+   "actual": 36835.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2015,
+   "h": 4,
+   "year": 2019,
+   "pred": 42325.2426784134,
+   "actual": 36355.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2015,
+   "h": 5,
+   "year": 2020,
+   "pred": 43373.3904512688,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2015,
+   "h": 1,
+   "year": 2016,
+   "pred": 36749.8765085149,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2015,
+   "h": 2,
+   "year": 2017,
+   "pred": 36749.8765085149,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2015,
+   "h": 3,
+   "year": 2018,
+   "pred": 36749.8765085149,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2015,
+   "h": 4,
+   "year": 2019,
+   "pred": 36749.8765085149,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2015,
+   "h": 5,
+   "year": 2020,
+   "pred": 36749.8765085149,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2015,
+   "h": 1,
+   "year": 2016,
+   "pred": 35482.8405829969,
+   "actual": 37806.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2015,
+   "h": 2,
+   "year": 2017,
+   "pred": 35243.5360557289,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2015,
+   "h": 3,
+   "year": 2018,
+   "pred": 34966.9128074291,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2015,
+   "h": 4,
+   "year": 2019,
+   "pred": 34490.4158881977,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2015,
+   "h": 5,
+   "year": 2020,
+   "pred": 26276.2463301682,
+   "actual": 39007.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2015,
+   "h": 1,
+   "year": 2016,
+   "pred": 35870.6647355907,
+   "actual": 37806.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2015,
+   "h": 2,
+   "year": 2017,
+   "pred": 35797.8460831649,
+   "actual": 37473.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2015,
+   "h": 3,
+   "year": 2018,
+   "pred": 35626.6617680449,
+   "actual": 36835.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2015,
+   "h": 4,
+   "year": 2019,
+   "pred": 35398.1022711782,
+   "actual": 36355.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2015,
+   "h": 5,
+   "year": 2020,
+   "pred": 31116.3269645535,
+   "actual": 39007.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2015,
+   "h": 1,
+   "year": 2016,
+   "pred": 35058.7038570975,
+   "actual": 37806.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2015,
+   "h": 2,
+   "year": 2017,
+   "pred": 35161.9974432208,
+   "actual": 37473.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2015,
+   "h": 3,
+   "year": 2018,
+   "pred": 35093.3732046023,
+   "actual": 36835.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2015,
+   "h": 4,
+   "year": 2019,
+   "pred": 34753.1197003914,
+   "actual": 36355.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2015,
+   "h": 5,
+   "year": 2020,
+   "pred": 26515.6682816568,
+   "actual": 39007.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2015,
+   "h": 1,
+   "year": 2016,
+   "pred": 36309.9874112331,
+   "actual": 37806.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2015,
+   "h": 2,
+   "year": 2017,
+   "pred": 36715.2537181105,
+   "actual": 37473.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2015,
+   "h": 3,
+   "year": 2018,
+   "pred": 37035.0374785706,
+   "actual": 36835.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2015,
+   "h": 4,
+   "year": 2019,
+   "pred": 37280.1528339024,
+   "actual": 36355.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2015,
+   "h": 5,
+   "year": 2020,
+   "pred": 32013.9482701629,
+   "actual": 39007.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2016,
+   "h": 1,
+   "year": 2017,
+   "pred": 37806.0,
+   "actual": 37473.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2016,
+   "h": 2,
+   "year": 2018,
+   "pred": 37806.0,
+   "actual": 36835.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2016,
+   "h": 3,
+   "year": 2019,
+   "pred": 37806.0,
+   "actual": 36355.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2016,
+   "h": 4,
+   "year": 2020,
+   "pred": 37806.0,
+   "actual": 39007.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2016,
+   "h": 5,
+   "year": 2021,
+   "pred": 37806.0,
+   "actual": 43230.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2016,
+   "h": 1,
+   "year": 2017,
+   "pred": 37615.0,
+   "actual": 37473.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2016,
+   "h": 2,
+   "year": 2018,
+   "pred": 37424.0,
+   "actual": 36835.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2016,
+   "h": 3,
+   "year": 2019,
+   "pred": 37233.0,
+   "actual": 36355.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2016,
+   "h": 4,
+   "year": 2020,
+   "pred": 37042.0,
+   "actual": 39007.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2016,
+   "h": 5,
+   "year": 2021,
+   "pred": 36851.0,
+   "actual": 43230.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2016,
+   "h": 1,
+   "year": 2017,
+   "pred": 39769.6579603899,
+   "actual": 37473.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2016,
+   "h": 2,
+   "year": 2018,
+   "pred": 41413.7689804323,
+   "actual": 36835.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2016,
+   "h": 3,
+   "year": 2019,
+   "pred": 42777.8621932661,
+   "actual": 36355.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2016,
+   "h": 4,
+   "year": 2020,
+   "pred": 43901.4165341371,
+   "actual": 39007.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2016,
+   "h": 5,
+   "year": 2021,
+   "pred": 44821.470287007,
+   "actual": 43230.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2016,
+   "h": 1,
+   "year": 2017,
+   "pred": 38525.4667254642,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2016,
+   "h": 2,
+   "year": 2018,
+   "pred": 38525.4667254642,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2016,
+   "h": 3,
+   "year": 2019,
+   "pred": 38525.4667254642,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2016,
+   "h": 4,
+   "year": 2020,
+   "pred": 38525.4667254642,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2016,
+   "h": 5,
+   "year": 2021,
+   "pred": 38525.4667254642,
+   "actual": 43230.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2016,
+   "h": 1,
+   "year": 2017,
+   "pred": 37205.4357014406,
+   "actual": 37473.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2016,
+   "h": 2,
+   "year": 2018,
+   "pred": 36720.8177464414,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2016,
+   "h": 3,
+   "year": 2019,
+   "pred": 36115.1676979369,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2016,
+   "h": 4,
+   "year": 2020,
+   "pred": 27433.1068671683,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2016,
+   "h": 5,
+   "year": 2021,
+   "pred": 31443.1937075739,
+   "actual": 43230.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2016,
+   "h": 1,
+   "year": 2017,
+   "pred": 39424.3621748793,
+   "actual": 37473.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2016,
+   "h": 2,
+   "year": 2018,
+   "pred": 40734.8686664248,
+   "actual": 36835.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2016,
+   "h": 3,
+   "year": 2019,
+   "pred": 41800.3124375891,
+   "actual": 36355.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2016,
+   "h": 4,
+   "year": 2020,
+   "pred": 37787.1936250549,
+   "actual": 39007.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2016,
+   "h": 5,
+   "year": 2021,
+   "pred": 41370.3741917646,
+   "actual": 43230.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2016,
+   "h": 1,
+   "year": 2017,
+   "pred": 36178.1884397619,
+   "actual": 37473.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2016,
+   "h": 2,
+   "year": 2018,
+   "pred": 36262.6195532544,
+   "actual": 36835.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2016,
+   "h": 3,
+   "year": 2019,
+   "pred": 36037.1624692392,
+   "actual": 36355.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2016,
+   "h": 4,
+   "year": 2020,
+   "pred": 27231.1656363956,
+   "actual": 39007.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2016,
+   "h": 5,
+   "year": 2021,
+   "pred": 31691.4873813945,
+   "actual": 43230.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2016,
+   "h": 1,
+   "year": 2017,
+   "pred": 38140.5272819605,
+   "actual": 37473.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2016,
+   "h": 2,
+   "year": 2018,
+   "pred": 38472.7249383842,
+   "actual": 36835.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2016,
+   "h": 3,
+   "year": 2019,
+   "pred": 38727.3555877878,
+   "actual": 36355.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2016,
+   "h": 4,
+   "year": 2020,
+   "pred": 33136.2799586643,
+   "actual": 39007.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2016,
+   "h": 5,
+   "year": 2021,
+   "pred": 36799.6691187446,
+   "actual": 43230.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2017,
+   "h": 1,
+   "year": 2018,
+   "pred": 37473.0,
+   "actual": 36835.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2017,
+   "h": 2,
+   "year": 2019,
+   "pred": 37473.0,
+   "actual": 36355.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2017,
+   "h": 3,
+   "year": 2020,
+   "pred": 37473.0,
+   "actual": 39007.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2017,
+   "h": 4,
+   "year": 2021,
+   "pred": 37473.0,
+   "actual": 43230.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2017,
+   "h": 5,
+   "year": 2022,
+   "pred": 37473.0,
+   "actual": 42721.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2017,
+   "h": 1,
+   "year": 2018,
+   "pred": 37275.5454545455,
+   "actual": 36835.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2017,
+   "h": 2,
+   "year": 2019,
+   "pred": 37078.0909090909,
+   "actual": 36355.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2017,
+   "h": 3,
+   "year": 2020,
+   "pred": 36880.6363636364,
+   "actual": 39007.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2017,
+   "h": 4,
+   "year": 2021,
+   "pred": 36683.1818181818,
+   "actual": 43230.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2017,
+   "h": 5,
+   "year": 2022,
+   "pred": 36485.7272727273,
+   "actual": 42721.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2017,
+   "h": 1,
+   "year": 2018,
+   "pred": 37386.4125153162,
+   "actual": 36835.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2017,
+   "h": 2,
+   "year": 2019,
+   "pred": 37317.2865771497,
+   "actual": 36355.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2017,
+   "h": 3,
+   "year": 2020,
+   "pred": 37262.0778618967,
+   "actual": 39007.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2017,
+   "h": 4,
+   "year": 2021,
+   "pred": 37217.9697036746,
+   "actual": 43230.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2017,
+   "h": 5,
+   "year": 2022,
+   "pred": 37182.7207727435,
+   "actual": 42721.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2017,
+   "h": 1,
+   "year": 2018,
+   "pred": 36823.5527470313,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2017,
+   "h": 2,
+   "year": 2019,
+   "pred": 36823.5527470313,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2017,
+   "h": 3,
+   "year": 2020,
+   "pred": 36823.5527470313,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2017,
+   "h": 4,
+   "year": 2021,
+   "pred": 36823.5527470313,
+   "actual": 43230.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2017,
+   "h": 5,
+   "year": 2022,
+   "pred": 36823.5527470313,
+   "actual": 42721.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2017,
+   "h": 1,
+   "year": 2018,
+   "pred": 36965.808753521,
+   "actual": 36835.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2017,
+   "h": 2,
+   "year": 2019,
+   "pred": 36342.6361801808,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2017,
+   "h": 3,
+   "year": 2020,
+   "pred": 27671.7919174575,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2017,
+   "h": 4,
+   "year": 2021,
+   "pred": 31665.8650674044,
+   "actual": 43230.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2017,
+   "h": 5,
+   "year": 2022,
+   "pred": 32879.6160248017,
+   "actual": 42721.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2017,
+   "h": 1,
+   "year": 2018,
+   "pred": 37431.8754276478,
+   "actual": 36835.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2017,
+   "h": 2,
+   "year": 2019,
+   "pred": 37331.0561865685,
+   "actual": 36355.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2017,
+   "h": 3,
+   "year": 2020,
+   "pred": 32939.5277493768,
+   "actual": 39007.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2017,
+   "h": 4,
+   "year": 2021,
+   "pred": 35323.7761607831,
+   "actual": 43230.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2017,
+   "h": 5,
+   "year": 2022,
+   "pred": 35668.4304307784,
+   "actual": 42721.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2017,
+   "h": 1,
+   "year": 2018,
+   "pred": 36721.4865545769,
+   "actual": 36835.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2017,
+   "h": 2,
+   "year": 2019,
+   "pred": 36545.4558841335,
+   "actual": 36355.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2017,
+   "h": 3,
+   "year": 2020,
+   "pred": 27495.2750320457,
+   "actual": 39007.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2017,
+   "h": 4,
+   "year": 2021,
+   "pred": 32158.8389367081,
+   "actual": 43230.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2017,
+   "h": 5,
+   "year": 2022,
+   "pred": 33782.6087025844,
+   "actual": 42721.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2017,
+   "h": 1,
+   "year": 2018,
+   "pred": 37895.2051202533,
+   "actual": 36835.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2017,
+   "h": 2,
+   "year": 2019,
+   "pred": 38146.0134709616,
+   "actual": 36355.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2017,
+   "h": 3,
+   "year": 2020,
+   "pred": 32513.8478628273,
+   "actual": 39007.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2017,
+   "h": 4,
+   "year": 2021,
+   "pred": 36491.0239418593,
+   "actual": 43230.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2017,
+   "h": 5,
+   "year": 2022,
+   "pred": 37379.0633805274,
+   "actual": 42721.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2018,
+   "h": 1,
+   "year": 2019,
+   "pred": 36835.0,
+   "actual": 36355.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2018,
+   "h": 2,
+   "year": 2020,
+   "pred": 36835.0,
+   "actual": 39007.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2018,
+   "h": 3,
+   "year": 2021,
+   "pred": 36835.0,
+   "actual": 43230.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2018,
+   "h": 4,
+   "year": 2022,
+   "pred": 36835.0,
+   "actual": 42721.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2018,
+   "h": 5,
+   "year": 2023,
+   "pred": 36835.0,
+   "actual": 41025.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2018,
+   "h": 1,
+   "year": 2019,
+   "pred": 36618.3913043478,
+   "actual": 36355.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2018,
+   "h": 2,
+   "year": 2020,
+   "pred": 36401.7826086957,
+   "actual": 39007.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2018,
+   "h": 3,
+   "year": 2021,
+   "pred": 36185.1739130435,
+   "actual": 43230.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2018,
+   "h": 4,
+   "year": 2022,
+   "pred": 35968.5652173913,
+   "actual": 42721.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2018,
+   "h": 5,
+   "year": 2023,
+   "pred": 35751.9565217391,
+   "actual": 41025.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2018,
+   "h": 1,
+   "year": 2019,
+   "pred": 36332.4297869314,
+   "actual": 36355.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2018,
+   "h": 2,
+   "year": 2020,
+   "pred": 35935.3151461369,
+   "actual": 39007.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2018,
+   "h": 3,
+   "year": 2021,
+   "pred": 35620.7508608871,
+   "actual": 43230.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2018,
+   "h": 4,
+   "year": 2022,
+   "pred": 35371.0831688061,
+   "actual": 42721.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2018,
+   "h": 5,
+   "year": 2023,
+   "pred": 35172.6095574684,
+   "actual": 41025.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2018,
+   "h": 1,
+   "year": 2019,
+   "pred": 36844.0605570817,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2018,
+   "h": 2,
+   "year": 2020,
+   "pred": 36844.0605570817,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2018,
+   "h": 3,
+   "year": 2021,
+   "pred": 36844.0605570817,
+   "actual": 43230.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2018,
+   "h": 4,
+   "year": 2022,
+   "pred": 36844.0605570817,
+   "actual": 42721.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2018,
+   "h": 5,
+   "year": 2023,
+   "pred": 36844.0605570817,
+   "actual": 41025.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2018,
+   "h": 1,
+   "year": 2019,
+   "pred": 36240.5964647315,
+   "actual": 36355.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2018,
+   "h": 2,
+   "year": 2020,
+   "pred": 27640.9215688541,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2018,
+   "h": 3,
+   "year": 2021,
+   "pred": 31617.812072246,
+   "actual": 43230.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2018,
+   "h": 4,
+   "year": 2022,
+   "pred": 32829.888126187,
+   "actual": 42721.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2018,
+   "h": 5,
+   "year": 2023,
+   "pred": 32717.7777006451,
+   "actual": 41025.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2018,
+   "h": 1,
+   "year": 2019,
+   "pred": 36694.4585933822,
+   "actual": 36355.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2018,
+   "h": 2,
+   "year": 2020,
+   "pred": 32341.2554965618,
+   "actual": 39007.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2018,
+   "h": 3,
+   "year": 2021,
+   "pred": 34642.9850111114,
+   "actual": 43230.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2018,
+   "h": 4,
+   "year": 2022,
+   "pred": 34941.4818653086,
+   "actual": 42721.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2018,
+   "h": 5,
+   "year": 2023,
+   "pred": 35186.1908356738,
+   "actual": 41025.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2018,
+   "h": 1,
+   "year": 2019,
+   "pred": 36583.0276662915,
+   "actual": 36355.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2018,
+   "h": 2,
+   "year": 2020,
+   "pred": 27514.5084811368,
+   "actual": 39007.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2018,
+   "h": 3,
+   "year": 2021,
+   "pred": 32194.1668817795,
+   "actual": 43230.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2018,
+   "h": 4,
+   "year": 2022,
+   "pred": 33829.3308432587,
+   "actual": 42721.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2018,
+   "h": 5,
+   "year": 2023,
+   "pred": 33802.1542619227,
+   "actual": 41025.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2018,
+   "h": 1,
+   "year": 2019,
+   "pred": 37163.2871332361,
+   "actual": 36355.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2018,
+   "h": 2,
+   "year": 2020,
+   "pred": 32693.6661454005,
+   "actual": 39007.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2018,
+   "h": 3,
+   "year": 2021,
+   "pred": 36319.1324973792,
+   "actual": 43230.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2018,
+   "h": 4,
+   "year": 2022,
+   "pred": 36620.4445203244,
+   "actual": 42721.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2018,
+   "h": 5,
+   "year": 2023,
+   "pred": 36992.8959687192,
+   "actual": 41025.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2019,
+   "h": 1,
+   "year": 2020,
+   "pred": 36355.0,
+   "actual": 39007.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2019,
+   "h": 2,
+   "year": 2021,
+   "pred": 36355.0,
+   "actual": 43230.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2019,
+   "h": 3,
+   "year": 2022,
+   "pred": 36355.0,
+   "actual": 42721.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2019,
+   "h": 4,
+   "year": 2023,
+   "pred": 36355.0,
+   "actual": 41025.0
+  },
+  {
+   "model": "Naive (last year)",
+   "origin": 2019,
+   "h": 5,
+   "year": 2024,
+   "pred": 36355.0,
+   "actual": 39254.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2019,
+   "h": 1,
+   "year": 2020,
+   "pred": 36127.4166666667,
+   "actual": 39007.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2019,
+   "h": 2,
+   "year": 2021,
+   "pred": 35899.8333333333,
+   "actual": 43230.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2019,
+   "h": 3,
+   "year": 2022,
+   "pred": 35672.25,
+   "actual": 42721.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2019,
+   "h": 4,
+   "year": 2023,
+   "pred": 35444.6666666667,
+   "actual": 41025.0
+  },
+  {
+   "model": "Linear drift",
+   "origin": 2019,
+   "h": 5,
+   "year": 2024,
+   "pred": 35217.0833333333,
+   "actual": 39254.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2019,
+   "h": 1,
+   "year": 2020,
+   "pred": 35975.5074654177,
+   "actual": 39007.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2019,
+   "h": 2,
+   "year": 2021,
+   "pred": 35674.767595236,
+   "actual": 43230.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2019,
+   "h": 3,
+   "year": 2022,
+   "pred": 35435.9868313219,
+   "actual": 42721.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2019,
+   "h": 4,
+   "year": 2023,
+   "pred": 35246.1134556429,
+   "actual": 41025.0
+  },
+  {
+   "model": "Damped trend (Holt)",
+   "origin": 2019,
+   "h": 5,
+   "year": 2024,
+   "pred": 35094.9475314868,
+   "actual": 39254.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2019,
+   "h": 1,
+   "year": 2020,
+   "pred": 36043.7506505157,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2019,
+   "h": 2,
+   "year": 2021,
+   "pred": 36043.7506505157,
+   "actual": 43230.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2019,
+   "h": 3,
+   "year": 2022,
+   "pred": 36043.7506505157,
+   "actual": 42721.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2019,
+   "h": 4,
+   "year": 2023,
+   "pred": 36043.7506505157,
+   "actual": 41025.0
+  },
+  {
+   "model": "ARIMA (auto)",
+   "origin": 2019,
+   "h": 5,
+   "year": 2024,
+   "pred": 36043.7506505157,
+   "actual": 39254.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2019,
+   "h": 1,
+   "year": 2020,
+   "pred": 27503.3277073544,
+   "actual": 39007.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2019,
+   "h": 2,
+   "year": 2021,
+   "pred": 31619.2559732676,
+   "actual": 43230.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2019,
+   "h": 3,
+   "year": 2022,
+   "pred": 32939.8611137352,
+   "actual": 42721.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2019,
+   "h": 4,
+   "year": 2023,
+   "pred": 32848.0422283242,
+   "actual": 41025.0
+  },
+  {
+   "model": "ARIMAX: miles + unemployment",
+   "origin": 2019,
+   "h": 5,
+   "year": 2024,
+   "pred": 32370.0205805725,
+   "actual": 39254.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2019,
+   "h": 1,
+   "year": 2020,
+   "pred": 32020.0870443563,
+   "actual": 39007.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2019,
+   "h": 2,
+   "year": 2021,
+   "pred": 34275.2609310273,
+   "actual": 43230.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2019,
+   "h": 3,
+   "year": 2022,
+   "pred": 34546.5884345262,
+   "actual": 42721.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2019,
+   "h": 4,
+   "year": 2023,
+   "pred": 34764.3145825692,
+   "actual": 41025.0
+  },
+  {
+   "model": "Rate-per-mile x miles driven",
+   "origin": 2019,
+   "h": 5,
+   "year": 2024,
+   "pred": 34951.8775006264,
+   "actual": 39254.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2019,
+   "h": 1,
+   "year": 2020,
+   "pred": 27480.4844289452,
+   "actual": 39007.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2019,
+   "h": 2,
+   "year": 2021,
+   "pred": 32131.3939742411,
+   "actual": 43230.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2019,
+   "h": 3,
+   "year": 2022,
+   "pred": 33747.322934016,
+   "actual": 42721.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2019,
+   "h": 4,
+   "year": 2023,
+   "pred": 33717.2972213589,
+   "actual": 41025.0
+  },
+  {
+   "model": "Ridge regression",
+   "origin": 2019,
+   "h": 5,
+   "year": 2024,
+   "pred": 33228.9535570168,
+   "actual": 39254.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2019,
+   "h": 1,
+   "year": 2020,
+   "pred": 32321.4289389618,
+   "actual": 39007.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2019,
+   "h": 2,
+   "year": 2021,
+   "pred": 35952.011155836,
+   "actual": 43230.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2019,
+   "h": 3,
+   "year": 2022,
+   "pred": 36182.5830955222,
+   "actual": 42721.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2019,
+   "h": 4,
+   "year": 2023,
+   "pred": 36455.6079611017,
+   "actual": 41025.0
+  },
+  {
+   "model": "Gradient boosting",
+   "origin": 2019,
+   "h": 5,
+   "year": 2024,
+   "pred": 37044.2914989218,
+   "actual": 39254.0
+  }
+ ]
+}

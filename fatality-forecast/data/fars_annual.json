@@ -1,0 +1,152 @@
+[
+ {
+  "year": 1995,
+  "crashes": 37241,
+  "fatalities": 41817
+ },
+ {
+  "year": 1996,
+  "crashes": 37494,
+  "fatalities": 42065
+ },
+ {
+  "year": 1997,
+  "crashes": 37324,
+  "fatalities": 42013
+ },
+ {
+  "year": 1998,
+  "crashes": 37107,
+  "fatalities": 41501
+ },
+ {
+  "year": 1999,
+  "crashes": 37140,
+  "fatalities": 41717
+ },
+ {
+  "year": 2000,
+  "crashes": 37526,
+  "fatalities": 41945
+ },
+ {
+  "year": 2001,
+  "crashes": 37862,
+  "fatalities": 42196
+ },
+ {
+  "year": 2002,
+  "crashes": 38491,
+  "fatalities": 43005
+ },
+ {
+  "year": 2003,
+  "crashes": 38477,
+  "fatalities": 42884
+ },
+ {
+  "year": 2004,
+  "crashes": 38444,
+  "fatalities": 42836
+ },
+ {
+  "year": 2005,
+  "crashes": 39252,
+  "fatalities": 43510
+ },
+ {
+  "year": 2006,
+  "crashes": 38648,
+  "fatalities": 42708
+ },
+ {
+  "year": 2007,
+  "crashes": 37435,
+  "fatalities": 41259
+ },
+ {
+  "year": 2008,
+  "crashes": 34172,
+  "fatalities": 37423
+ },
+ {
+  "year": 2009,
+  "crashes": 30862,
+  "fatalities": 33883
+ },
+ {
+  "year": 2010,
+  "crashes": 30296,
+  "fatalities": 32999
+ },
+ {
+  "year": 2011,
+  "crashes": 29867,
+  "fatalities": 32479
+ },
+ {
+  "year": 2012,
+  "crashes": 31006,
+  "fatalities": 33782
+ },
+ {
+  "year": 2013,
+  "crashes": 30202,
+  "fatalities": 32893
+ },
+ {
+  "year": 2014,
+  "crashes": 30056,
+  "fatalities": 32744
+ },
+ {
+  "year": 2015,
+  "crashes": 32538,
+  "fatalities": 35484
+ },
+ {
+  "year": 2016,
+  "crashes": 34748,
+  "fatalities": 37806
+ },
+ {
+  "year": 2017,
+  "crashes": 34560,
+  "fatalities": 37473
+ },
+ {
+  "year": 2018,
+  "crashes": 33919,
+  "fatalities": 36835
+ },
+ {
+  "year": 2019,
+  "crashes": 33487,
+  "fatalities": 36355
+ },
+ {
+  "year": 2020,
+  "crashes": 35935,
+  "fatalities": 39007
+ },
+ {
+  "year": 2021,
+  "crashes": 39785,
+  "fatalities": 43230
+ },
+ {
+  "year": 2022,
+  "crashes": 39422,
+  "fatalities": 42721
+ },
+ {
+  "year": 2023,
+  "crashes": 37769,
+  "fatalities": 41025
+ },
+ {
+  "year": 2024,
+  "crashes": 36297,
+  "fatalities": 39254
+ }
+]
