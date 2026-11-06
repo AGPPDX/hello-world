@@ -16,7 +16,7 @@ Forecasts annual US motor-vehicle traffic deaths for the next five years (2025�
 
 ## State forecasts
 
-All 50 states and DC, in `data/state_forecasts.csv` (one row per state and year, with 80% and 95% ranges and deaths per 100,000 people). State forecasts are scaled so they add up to the national forecast each year.
+All 50 states and DC, in `data/state_forecasts.xlsx` (Excel workbook: summary, per-year detail, history, national, and a Read Me sheet) and `data/state_forecasts.csv` (one row per state and year, with 80% and 95% ranges and deaths per 100,000 people). State forecasts are scaled so they add up to the national forecast each year.
 
 - Six models per state: naive (last year), 3-year average, damped trend, ARIMA, rate per person × population, and one gradient-boosting model trained on all states together.
 - The blend of the top three (ARIMA, 3-year average, damped trend), scaled to the national total, averaged 6% error one year out and 15% five years out in backtests. That is about the same as the naive baseline overall; it beat the baseline in 29 of 51 states.
@@ -38,6 +38,7 @@ All 50 states and DC, in `data/state_forecasts.csv` (one row per state and year,
 | `data/raw/states/{ST}UR.csv` | State unemployment rate, monthly | BLS, via FRED |
 | `data/state_results.json` | State model scores, forecasts, per-state backtest error | Output of `src/state_model.py` |
 | `data/state_forecasts.csv` | State forecasts 2025–2029 with ranges | Output of `src/state_model.py` |
+| `data/state_forecasts.xlsx` | Excel workbook of state and national forecasts | Output of `src/build_workbook.py` |
 
 The NHTSA CrashAPI blocks automated requests from cloud servers, so FARS bulk files are used instead. They contain the same records.
 
@@ -61,6 +62,7 @@ python src/fetch_fred_states.py data/raw/states
 python src/model.py data          # national; writes data/results.json
 python src/state_model.py data    # states (needs results.json); ~2 minutes
 python src/build_report.py data/results.json data/state_results.json report/template.html report/traffic-fatality-outlook.html
+python src/build_workbook.py data data/state_forecasts.xlsx   # needs openpyxl
 ```
 
 `model.py` and `state_model.py` print statsmodels convergence warnings during the backtest. They are expected; run with `python -W ignore` to hide them.
